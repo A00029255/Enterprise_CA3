@@ -1,0 +1,142 @@
+@import "leaflet/dist/leaflet.css";
+@import "tailwindcss";
+
+:root {
+  --bg: 245 247 251;
+  --surface: 255 255 255;
+  --surface-2: 241 245 249;
+  --fg: 15 23 42;
+  --muted: 71 85 105;
+  --border: 226 232 240;
+  --accent: 37 99 235;
+  --accent-2: 14 165 233;
+  --danger: 220 38 38;
+  --focus: 2 132 199;
+  --base-font-size: 16px;
+}
+
+:root[data-contrast="high"] {
+  --bg: 255 255 255;
+  --surface: 255 255 255;
+  --surface-2: 243 244 246;
+  --fg: 0 0 0;
+  --muted: 17 24 39;
+  --border: 17 24 39;
+  --accent: 0 0 0;
+  --accent-2: 0 0 0;
+  --focus: 234 179 8;
+}
+
+:root[data-text-scale="sm"] {
+  --base-font-size: 15px;
+}
+
+:root[data-text-scale="base"] {
+  --base-font-size: 16px;
+}
+
+:root[data-text-scale="lg"] {
+  --base-font-size: 18px;
+}
+
+html {
+  font-size: var(--base-font-size);
+  scroll-behavior: smooth;
+}
+
+body {
+  background: rgb(var(--bg));
+  color: rgb(var(--fg));
+  min-height: 100vh;
+}
+
+* {
+  border-color: rgb(var(--border));
+}
+
+a,
+button,
+input,
+select,
+textarea,
+summary {
+  transition: 160ms ease;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+summary:focus-visible {
+  outline: 3px solid rgb(var(--focus));
+  outline-offset: 2px;
+}
+
+summary {
+  list-style: none;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+.container-shell {
+  @apply mx-auto max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+.card {
+  background: rgb(var(--surface));
+  border: 1px solid rgb(var(--border));
+  @apply rounded-3xl shadow-sm;
+}
+
+.soft-card {
+  background: rgb(var(--surface-2));
+  border: 1px solid rgb(var(--border));
+  @apply rounded-2xl;
+}
+
+.badge {
+  @apply inline-flex items-center rounded-full px-3 py-1 text-xs font-semibold;
+  background: rgb(var(--surface-2));
+  color: rgb(var(--fg));
+}
+
+.btn-primary {
+  background: rgb(var(--accent));
+  color: white;
+  @apply inline-flex items-center justify-center rounded-2xl px-4 py-2 font-semibold shadow-sm;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+}
+
+.btn-secondary {
+  background: rgb(var(--surface));
+  color: rgb(var(--fg));
+  border: 1px solid rgb(var(--border));
+  @apply inline-flex items-center justify-center rounded-2xl px-4 py-2 font-semibold;
+}
+
+.input {
+  width: 100%;
+  background: rgb(var(--surface));
+  color: rgb(var(--fg));
+  border: 1px solid rgb(var(--border));
+  @apply rounded-2xl px-4 py-3;
+}
+
+.label {
+  @apply mb-2 block text-sm font-medium;
+}
+
+.page-title {
+  @apply text-3xl font-bold tracking-tight sm:text-4xl;
+}
+
+.page-subtitle {
+  color: rgb(var(--muted));
+  @apply mt-3 max-w-3xl text-base leading-7;
+}
