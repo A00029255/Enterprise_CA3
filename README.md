@@ -14,7 +14,6 @@ Campus Companion is a modern and accessible web application for first-year stude
 Clone the repository
 - git clone https://github.com/A00029255/Enterprise_CA3.git
 - cd Enterprise_CA3
-- cd campus-companion
 - npm run dev
 
 ## setup keys
