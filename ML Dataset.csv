@@ -1,0 +1,501 @@
+student_id,full_name,email,age,course_name,year_of_study,timetable_group,commute_minutes,study_hours_per_week,sleep_hours_avg,attendance_rate,campus_visits_per_week,lms_logins_per_week,library_visits_per_week,avg_assignment_score,avg_quiz_score,events_interested_count,societies_joined_count,society_events_interested_count,helpdesk_messages_count,lost_found_reports_count,high_contrast_enabled,text_scale,notifications_enabled,part_time_job_hours,late_submissions_count,engagement_score,wellbeing_score,risk_score,target_at_risk,target_performance_band,estimated_final_mark
+STU0001,Mr. Alister Kinnear,mr..alister.kinnear1@fictional-campus.test,21,Economics and Finance,3,G1,48,24,6.1,89.5,5,34,8,56.4,90.3,6,1,2,0,0,False,sm,False,0,3,22.0,53.8,53.3,False,High,74.2
+STU0002,Eamon Dwane,eamon.dwane2@fictional-campus.test,21,Economics and Finance,2,G3,66,22,8.6,78.7,5,28,6,58.3,80.0,6,0,0,2,0,False,base,True,12,2,8.9,57.8,62.5,True,Medium,65.2
+STU0003,Mrs. Niamh Tormey,mrs..niamh.tormey3@fictional-campus.test,21,Marketing,1,G2,35,23,6.7,94.8,6,36,3,77.7,81.0,5,1,5,0,0,False,lg,True,0,0,8.1,61.1,28.1,False,High,70.3
+STU0004,Stewart Montague,stewart.montague4@fictional-campus.test,28,Business Studies,2,G1,31,16,5.0,72.1,2,23,3,46.6,68.5,2,1,6,2,0,True,lg,True,13,1,14.7,46.3,53.2,False,Low,42.9
+STU0005,Anthony Cully,anthony.cully5@fictional-campus.test,23,Computer Science,3,G2,56,14,7.3,73.1,7,30,3,35.6,75.0,5,1,0,2,0,False,base,True,19,1,11.0,67.9,69.6,True,Low,52.6
+STU0006,Emmett Roland,emmett.roland6@fictional-campus.test,21,Engineering,4,G3,37,20,5.5,89.0,1,37,4,58.7,86.3,3,1,3,0,0,True,base,True,3,1,8.5,60.7,35.2,False,Medium,64.5
+STU0007,Alanis Wrynn-Greely,alanis.wrynn.greely7@fictional-campus.test,24,Psychology,1,G2,47,11,7.9,81.7,4,15,0,71.5,46.1,6,2,2,2,0,False,base,True,3,2,11.7,71.3,52.2,False,Medium,65.5
+STU0008,Dr. Colleen Nulty,dr..colleen.nulty8@fictional-campus.test,27,Marketing,1,G2,41,6,7.2,85.1,1,24,3,53.2,65.5,1,1,0,0,0,False,base,True,0,3,10.2,69.0,62.1,True,Low,53.9
+STU0009,Dionne Banks-Finnerty,dionne.banks.finnerty9@fictional-campus.test,18,Computer Science,3,G1,14,14,7.0,72.3,3,20,3,64.9,69.6,2,1,4,0,0,False,base,True,14,0,10.0,94.0,45.0,False,Medium,64.2
+STU0010,Dr. Eva Kitson,dr..eva.kitson10@fictional-campus.test,19,Data Analytics,3,G1,48,16,7.4,98.7,6,25,8,71.3,68.6,6,1,6,1,0,True,sm,True,0,0,12.1,62.3,24.4,False,Medium,67.8
+STU0011,Don Mansfield,don.mansfield11@fictional-campus.test,24,Computer Science,2,G2,61,16,8.9,100.0,5,24,4,58.3,80.5,8,1,3,0,0,False,sm,True,13,3,12.9,71.7,45.1,False,Medium,62.4
+STU0012,Calvin McGrenehan,calvin.mcgrenehan12@fictional-campus.test,24,Business Studies,4,G1,64,27,4.9,100.0,4,31,10,66.5,84.1,3,2,2,0,1,True,lg,False,0,1,14.1,36.0,46.0,False,High,71.0
+STU0013,Johnny McAreavey,johnny.mcareavey13@fictional-campus.test,20,Computer Science,4,G2,26,23,6.2,88.2,4,32,8,72.2,68.5,5,1,1,0,0,False,sm,False,9,0,14.1,61.6,30.9,False,High,72.8
+STU0014,Deirbhile Carr-O'Farrelly,deirbhile.carr.ofarrelly14@fictional-campus.test,19,Engineering,1,G3,28,18,6.3,94.7,1,27,4,67.4,79.9,6,1,3,0,0,False,base,True,6,0,10.4,45.7,34.3,False,High,72.6
+STU0015,Brooklyn McGovern,brooklyn.mcgovern15@fictional-campus.test,22,Psychology,3,G3,46,19,5.6,83.8,6,27,4,55.1,71.9,6,1,3,1,0,False,base,True,3,0,18.1,66.4,42.2,False,Medium,60.2
+STU0016,Ruairi Leydon,ruairi.leydon16@fictional-campus.test,20,Business Studies,3,G3,31,16,7.0,66.4,4,19,7,28.0,61.4,4,3,5,0,0,False,base,True,23,5,13.0,68.8,91.4,True,Low,36.9
+STU0017,Miss Lesley Goff,miss.lesley.goff17@fictional-campus.test,21,Law,1,G3,38,17,6.5,81.9,5,26,4,44.7,76.7,3,2,3,0,0,False,base,False,13,3,11.6,61.9,49.7,False,Medium,60.0
+STU0018,Mrs. Alix Heney,mrs..alix.heney18@fictional-campus.test,22,Marketing,2,G2,35,15,7.1,79.3,5,30,6,44.0,75.6,7,2,5,0,0,False,base,True,19,4,14.9,52.1,73.0,True,Low,47.8
+STU0019,Dr. Cahir Hever,dr..cahir.hever19@fictional-campus.test,19,Computer Science,2,G3,5,11,6.1,66.1,2,25,3,41.1,70.8,5,1,5,1,0,False,base,True,11,0,14.3,60.1,51.3,True,Low,54.4
+STU0020,Mrs. Grainne Kitson,mrs..grainne.kitson20@fictional-campus.test,22,Engineering,1,G3,45,15,8.3,88.6,3,32,6,63.5,75.8,1,1,3,0,0,True,base,True,5,0,13.4,69.4,39.8,False,Medium,67.2
+STU0021,Megan McEllistrim,megan.mcellistrim21@fictional-campus.test,21,Law,2,G3,45,11,7.6,77.6,5,20,6,65.1,69.1,5,0,1,0,0,False,base,True,7,1,6.1,61.6,48.1,False,Medium,62.0
+STU0022,Joseph McCool,joseph.mccool22@fictional-campus.test,21,Marketing,2,G3,64,14,5.9,71.2,4,31,3,52.8,44.9,6,0,7,0,0,False,base,True,10,0,10.2,41.7,56.6,True,Low,44.5
+STU0023,Fintan Considine,fintan.considine23@fictional-campus.test,21,Law,4,G1,36,23,6.5,94.6,4,29,10,65.4,87.0,2,0,2,0,0,False,lg,True,0,2,12.6,45.4,41.3,False,High,74.6
+STU0024,Megan Friel-Storey,megan.friel.storey24@fictional-campus.test,26,Computer Science,4,G1,74,16,6.6,86.2,1,33,4,61.8,81.3,6,0,3,2,0,True,base,True,4,1,11.2,57.7,47.2,False,Medium,61.6
+STU0025,Ms. Catherine O'Hagan,ms..catherine.ohagan25@fictional-campus.test,18,Law,2,G3,47,14,7.1,69.8,2,25,5,51.9,60.0,4,2,4,1,1,False,base,False,12,2,14.3,65.3,65.1,True,Low,47.7
+STU0026,Demi-Leigh Whelan,demi.leigh.whelan26@fictional-campus.test,24,Data Analytics,2,G1,53,24,8.4,91.0,6,33,6,75.4,84.8,6,1,1,0,0,False,base,True,2,0,9.3,60.0,32.4,False,High,78.9
+STU0027,Jack Clune,jack.clune27@fictional-campus.test,19,Engineering,3,G3,51,18,7.0,77.8,1,38,5,73.7,70.9,2,1,0,0,0,True,base,True,11,1,8.8,52.6,41.4,False,Medium,65.8
+STU0028,Antoin MacGill,antoin.macgill28@fictional-campus.test,17,Engineering,1,G1,23,12,7.1,98.7,3,22,6,53.7,80.0,0,1,6,0,1,False,lg,False,2,0,5.0,64.1,36.2,False,Medium,65.6
+STU0029,Demi-Lee Conlan,demi.lee.conlan29@fictional-campus.test,21,Psychology,3,G2,22,17,5.8,97.9,4,25,3,67.0,83.6,5,3,9,1,0,False,base,False,0,0,14.7,41.9,29.6,False,High,73.5
+STU0030,Scott MacFall,scott.macfall30@fictional-campus.test,21,Psychology,1,G1,25,9,7.8,74.7,2,26,1,34.9,48.7,0,2,1,0,0,False,base,False,16,2,13.6,71.5,64.2,True,Low,42.2
+STU0031,Padraig McMonagle,padraig.mcmonagle31@fictional-campus.test,21,Computer Science,1,G3,40,14,6.8,70.0,5,18,6,58.4,67.3,6,2,3,0,0,False,base,True,5,0,9.6,61.5,54.0,False,Medium,66.3
+STU0032,Dr. Conal Kerrigan,dr..conal.kerrigan32@fictional-campus.test,28,Law,2,G2,65,14,6.0,63.0,5,27,3,28.0,44.9,6,1,3,1,0,True,lg,True,35,9,16.9,35.0,100.0,True,Low,43.3
+STU0033,Eugene Wynne,eugene.wynne33@fictional-campus.test,19,Marketing,2,G3,43,9,6.8,74.7,5,20,3,50.3,68.6,4,2,6,0,0,False,lg,True,0,1,19.1,86.3,44.7,False,Low,53.6
+STU0034,Deborah Mulgrave,deborah.mulgrave34@fictional-campus.test,23,Psychology,4,G1,84,20,6.3,96.2,5,24,7,61.9,74.9,6,1,4,0,0,False,base,True,0,0,15.9,43.0,39.1,False,Medium,61.5
+STU0035,Hollie McDermott-Haugh,hollie.mcdermott.haugh35@fictional-campus.test,21,Psychology,3,G2,35,16,7.3,64.4,4,21,4,43.1,58.2,1,3,5,0,0,False,base,False,13,0,17.0,72.7,59.1,True,Low,48.1
+STU0036,Pearce Reade,pearce.reade36@fictional-campus.test,28,Data Analytics,2,G3,62,13,7.8,82.9,2,25,3,59.5,60.5,1,3,6,0,0,False,sm,True,13,2,15.4,86.5,64.7,True,Medium,57.9
+STU0037,Barry Deloughrey,barry.deloughrey37@fictional-campus.test,19,Business Studies,2,G1,76,21,7.6,85.0,2,30,7,50.0,68.8,3,1,5,1,0,False,base,True,0,2,7.9,58.9,58.0,True,Medium,63.4
+STU0038,Vincent Finucane,vincent.finucane38@fictional-campus.test,20,Computer Science,2,G2,41,17,7.2,69.2,2,22,2,58.0,71.7,9,0,1,0,0,False,lg,True,8,1,8.6,71.9,46.3,False,Medium,60.0
+STU0039,Dr. Terence Comerford,dr..terence.comerford39@fictional-campus.test,18,Engineering,1,G2,33,15,7.3,81.8,3,24,1,39.4,61.2,2,1,1,0,0,False,base,False,0,2,5.0,61.2,56.3,True,Low,46.0
+STU0040,Haley O'Kieve,haley.okieve40@fictional-campus.test,18,Data Analytics,1,G2,28,7,6.2,72.0,2,13,7,39.4,57.1,4,2,3,1,1,False,base,True,0,2,8.8,57.1,61.8,True,Low,42.8
+STU0041,Darragh Walls,darragh.walls41@fictional-campus.test,20,Data Analytics,1,G2,35,7,6.6,60.7,4,16,2,40.1,59.5,3,0,0,0,0,False,base,True,13,1,7.2,57.5,61.8,True,Low,44.6
+STU0042,Mrs. Nichole Devereux,mrs..nichole.devereux42@fictional-campus.test,18,Law,1,G1,56,20,7.1,71.7,1,29,6,53.1,69.1,2,1,3,2,0,False,base,True,16,2,5.5,75.7,56.1,True,Low,50.5
+STU0043,Dr. Zak Maxwell,dr..zak.maxwell43@fictional-campus.test,25,Computer Science,1,G1,43,19,6.0,89.4,5,32,7,75.6,76.2,7,2,6,0,0,False,base,True,7,0,9.6,63.8,43.8,False,Medium,63.9
+STU0044,Glen Mulry,glen.mulry44@fictional-campus.test,22,Psychology,2,G3,43,8,4.7,48.7,2,21,1,28.0,56.0,1,0,0,2,0,True,base,True,26,1,5.0,35.0,94.8,True,Low,35.4
+STU0045,Matthew Annsboro,matthew.annsboro45@fictional-campus.test,18,Marketing,1,G2,5,13,5.3,96.7,1,22,4,56.6,66.8,1,0,0,0,0,False,base,True,0,3,8.1,38.4,52.7,False,Medium,59.1
+STU0046,Miss Kathy Gaughan,miss.kathy.gaughan46@fictional-campus.test,27,Business Studies,1,G3,84,9,5.1,76.7,5,25,5,28.6,59.8,6,1,2,1,0,False,lg,False,19,4,7.9,49.6,82.5,True,Low,47.7
+STU0047,Bethany Lordan,bethany.lordan47@fictional-campus.test,19,Business Studies,1,G2,47,12,7.2,79.1,3,23,3,66.0,61.0,3,2,6,0,0,False,base,True,11,0,16.8,57.2,46.0,False,Medium,58.0
+STU0048,Ms. Carolyn McGillicuddy,ms..carolyn.mcgillicuddy48@fictional-campus.test,20,Marketing,1,G3,79,18,6.9,92.4,6,26,5,59.8,88.6,4,1,6,1,0,True,lg,False,16,1,15.1,59.2,54.9,False,Medium,67.4
+STU0049,Mr. Rohan Spenser,mr..rohan.spenser49@fictional-campus.test,20,Data Analytics,4,G2,66,21,7.3,90.7,4,34,3,75.4,81.8,5,1,2,2,0,False,base,True,8,0,6.5,59.5,33.2,False,High,74.7
+STU0050,Thomas MacNeill,thomas.macneill50@fictional-campus.test,19,Economics and Finance,1,G3,53,15,5.9,80.5,5,26,5,28.0,65.9,6,0,3,0,0,False,sm,False,19,4,7.1,42.1,73.1,True,Low,45.1
+STU0051,Aine Dermody,aine.dermody51@fictional-campus.test,28,Law,3,G2,46,14,6.8,72.6,1,30,5,57.7,70.8,3,1,3,0,0,False,sm,True,11,0,9.6,82.4,48.1,False,Low,46.9
+STU0052,Tiegan MacBreen,tiegan.macbreen52@fictional-campus.test,21,Law,1,G3,35,15,7.9,72.3,5,28,7,66.3,70.6,3,2,3,1,0,False,lg,True,0,1,14.9,63.9,47.9,False,Medium,64.7
+STU0053,Blaine Hourigan,blaine.hourigan53@fictional-campus.test,22,Law,1,G3,11,16,6.8,80.3,3,24,10,57.2,79.9,5,1,2,0,0,False,base,True,14,0,14.4,56.3,48.6,False,Medium,58.0
+STU0054,Aoibhin Creedon-Qualter,aoibhin.creedon.qualter54@fictional-campus.test,22,Data Analytics,1,G1,29,9,6.4,74.2,6,25,2,48.8,54.3,6,0,1,1,0,False,base,False,16,1,13.2,49.3,66.6,True,Low,52.8
+STU0055,Mrs. Sabrina Stephenson,mrs..sabrina.stephenson55@fictional-campus.test,24,Data Analytics,2,G3,67,17,8.5,79.8,1,28,3,63.0,56.5,4,2,7,1,0,False,base,True,6,1,25.0,71.4,45.3,False,Medium,59.6
+STU0056,Mr. Ciaran O'Sharkey,mr..ciaran.osharkey56@fictional-campus.test,18,Data Analytics,2,G2,5,11,7.3,70.3,2,17,5,34.9,61.1,5,2,2,0,0,False,lg,True,19,4,12.7,84.0,76.6,True,Low,50.7
+STU0057,Cathy Kerrisk,cathy.kerrisk57@fictional-campus.test,21,Computer Science,2,G1,17,13,7.7,64.8,3,33,5,36.4,61.7,8,2,5,0,0,False,sm,False,15,4,16.6,75.5,69.9,True,Low,40.0
+STU0058,Therese Moore,therese.moore58@fictional-campus.test,19,Engineering,2,G1,51,14,7.5,75.4,3,28,4,69.0,61.6,2,2,5,1,0,False,sm,False,5,2,14.2,50.8,54.6,False,Medium,59.1
+STU0059,Rohan Groarke,rohan.groarke59@fictional-campus.test,19,Psychology,2,G2,32,16,6.1,89.6,6,25,7,61.9,63.9,7,0,1,0,0,False,base,True,0,1,10.5,51.8,50.8,False,Medium,55.4
+STU0060,Miss Hollie McGettrick,miss.hollie.mcgettrick60@fictional-campus.test,23,Computer Science,1,G1,50,8,8.1,65.3,4,24,3,43.4,56.1,4,2,6,0,0,False,base,True,24,3,10.3,70.2,85.1,True,Low,42.3
+STU0061,Victoria Sharpe,victoria.sharpe61@fictional-campus.test,22,Law,2,G1,19,20,8.3,85.9,1,35,6,67.1,75.2,6,1,3,0,0,False,base,True,13,0,10.0,79.8,38.3,False,Medium,69.5
+STU0062,Bronagh Jameson,bronagh.jameson62@fictional-campus.test,19,Marketing,1,G3,44,21,6.0,79.5,4,35,5,60.4,71.0,2,1,4,1,0,False,base,True,0,0,11.3,66.5,45.1,False,High,71.6
+STU0063,Bradley Marren,bradley.marren63@fictional-campus.test,19,Law,2,G3,36,12,5.6,83.6,3,20,2,58.5,67.4,8,1,6,0,0,False,base,True,0,2,15.1,64.1,48.1,False,Medium,63.3
+STU0064,Steven Walshe,steven.walshe64@fictional-campus.test,21,Marketing,1,G3,65,14,7.7,80.4,3,22,9,58.9,52.5,3,2,7,1,0,False,base,True,13,1,13.3,81.7,54.5,False,Low,53.4
+STU0065,Steven Hawthorn,steven.hawthorn65@fictional-campus.test,25,Engineering,3,G1,47,17,7.9,73.2,6,26,5,53.8,68.6,5,2,6,0,0,False,lg,True,14,2,10.5,72.6,51.1,False,Medium,56.3
+STU0066,Brett Coleman,brett.coleman66@fictional-campus.test,20,Law,2,G1,38,19,8.8,86.6,6,32,6,64.6,64.4,7,1,4,0,0,False,lg,True,2,1,16.0,81.9,41.7,False,Medium,65.7
+STU0067,Breandan Burns,breandan.burns67@fictional-campus.test,21,Law,2,G3,57,14,6.5,65.2,4,20,3,48.7,67.5,2,1,0,0,0,False,lg,True,12,2,10.0,67.5,64.5,True,Low,47.7
+STU0068,Miss Anne-Marie Seally,miss.anne.marie.seally68@fictional-campus.test,19,Data Analytics,3,G2,41,20,7.5,84.3,4,24,4,68.3,73.5,4,2,5,1,0,False,base,True,8,0,20.8,69.7,48.7,False,High,70.8
+STU0069,Garrett Purcell,garrett.purcell69@fictional-campus.test,18,Engineering,1,G1,48,2,6.4,68.9,4,17,1,30.0,58.6,3,0,0,0,0,False,base,True,16,3,6.4,49.9,69.7,True,Low,34.0
+STU0070,Rohan Droney,rohan.droney70@fictional-campus.test,19,Data Analytics,1,G1,33,19,6.4,86.2,4,18,7,55.5,66.7,5,1,3,0,0,True,base,True,18,2,7.4,53.9,63.1,True,Low,51.6
+STU0071,Dr. Dana O'Regan,dr..dana.oregan71@fictional-campus.test,19,Data Analytics,1,G1,68,13,6.3,86.9,3,27,7,62.9,67.9,3,1,1,1,0,False,base,True,1,2,12.8,54.5,52.1,False,Medium,60.6
+STU0072,Dr. Daryl Cummins,dr..daryl.cummins72@fictional-campus.test,20,Engineering,2,G1,43,13,7.5,84.7,2,28,4,63.9,64.8,3,0,3,0,0,False,base,True,12,1,10.2,63.1,49.3,False,Medium,67.0
+STU0073,Luke McConaghy,luke.mcconaghy73@fictional-campus.test,22,Psychology,4,G3,30,18,8.1,76.8,2,25,6,60.6,71.4,1,1,8,2,0,False,base,True,11,1,12.3,84.8,44.2,False,Medium,59.1
+STU0074,Jamie O'Kearney,jamie.okearney74@fictional-campus.test,20,Engineering,2,G1,48,10,7.0,80.7,6,19,2,64.2,45.8,6,1,2,0,0,False,base,True,5,1,6.9,50.7,44.1,False,Medium,57.9
+STU0075,Mrs. Natalie D'Arcy,mrs..natalie.darcy75@fictional-campus.test,19,Business Studies,1,G3,34,14,5.5,94.9,3,19,4,55.9,69.8,7,1,1,1,0,False,lg,True,0,1,14.9,50.4,48.8,False,Medium,60.9
+STU0076,Kristopher Martyn,kristopher.martyn76@fictional-campus.test,26,Psychology,2,G3,33,16,8.5,83.2,4,24,3,63.6,67.9,6,1,3,1,0,False,base,True,1,1,12.2,95.1,48.0,False,Medium,58.9
+STU0077,Mr. Eunan Gloster,mr..eunan.gloster77@fictional-campus.test,18,Computer Science,2,G2,64,12,9.2,98.6,7,22,1,90.1,67.8,5,1,4,1,0,False,base,True,2,0,6.4,81.9,33.3,False,Medium,67.9
+STU0078,Robert Norton,robert.norton78@fictional-campus.test,20,Engineering,4,G2,58,23,7.1,75.2,5,30,5,65.7,74.8,2,2,6,1,0,True,base,True,9,0,16.1,64.4,42.4,False,Medium,67.2
+STU0079,Logan Gilbane,logan.gilbane79@fictional-campus.test,18,Business Studies,1,G3,20,12,7.9,72.2,5,19,5,54.4,67.9,4,1,7,0,0,False,base,True,17,2,13.0,60.0,65.3,True,Medium,59.3
+STU0080,Mitchel Joyce-Corley,mitchel.joyce.corley80@fictional-campus.test,19,Psychology,2,G1,49,13,7.1,87.5,2,30,2,55.8,82.0,4,2,2,0,0,False,base,True,10,1,5.0,49.4,47.6,False,Medium,59.3
+STU0081,Shannon Twomey,shannon.twomey81@fictional-campus.test,19,Engineering,1,G3,65,27,7.7,74.6,4,38,10,60.6,66.0,5,1,5,0,0,False,base,True,21,2,16.4,46.4,66.9,True,Medium,66.6
+STU0082,Ben Timlin,ben.timlin82@fictional-campus.test,20,Economics and Finance,3,G2,21,15,5.3,89.8,4,32,6,54.9,63.0,7,0,0,0,0,False,base,True,0,2,9.8,40.8,49.0,False,Medium,59.8
+STU0083,Mrs. Ashley Hogan,mrs..ashley.hogan83@fictional-campus.test,22,Business Studies,1,G1,23,14,7.4,75.5,2,19,7,52.8,68.1,2,1,6,1,0,True,base,True,15,2,5.0,67.0,53.5,False,Low,52.1
+STU0084,Kurtis Quaide,kurtis.quaide84@fictional-campus.test,20,Psychology,1,G2,35,12,6.5,86.5,5,19,4,68.3,72.9,5,1,5,0,0,False,base,True,4,0,5.0,61.0,37.8,False,Medium,69.0
+STU0085,Cliona McPartlon,cliona.mcpartlon85@fictional-campus.test,20,Computer Science,1,G2,12,9,6.8,58.3,3,23,4,28.0,46.2,5,3,4,1,0,False,base,True,0,2,10.3,71.2,72.7,True,Low,34.2
+STU0086,Craig McGowern,craig.mcgowern86@fictional-campus.test,20,Economics and Finance,2,G1,44,20,4.6,69.8,1,34,5,48.2,68.8,3,3,7,0,0,False,base,True,9,1,17.6,56.6,55.9,True,Low,50.9
+STU0087,Kelvin Kerville,kelvin.kerville87@fictional-campus.test,23,Economics and Finance,3,G2,5,14,8.5,76.8,2,20,5,51.8,66.7,4,0,5,0,0,False,base,True,10,3,10.2,76.3,60.8,True,Low,53.3
+STU0088,Dr. George Mooney,dr..george.mooney88@fictional-campus.test,21,Data Analytics,4,G2,56,19,7.8,74.5,7,36,6,53.1,71.9,2,3,6,2,1,False,base,False,0,1,15.5,82.3,44.1,False,Medium,59.6
+STU0089,Dr. Carrie Girvan,dr..carrie.girvan89@fictional-campus.test,24,Computer Science,1,G3,32,23,5.3,91.1,4,31,3,63.2,68.9,2,2,4,0,0,False,base,True,9,0,8.5,42.5,41.3,False,Medium,61.9
+STU0090,Donal Coholan-Togher,donal.coholan.togher90@fictional-campus.test,18,Psychology,1,G1,35,13,7.0,93.8,5,29,6,67.2,83.8,9,1,6,0,0,False,base,True,8,0,14.4,63.6,32.0,False,High,70.5
+STU0091,Hayden Coffey,hayden.coffey91@fictional-campus.test,19,Psychology,1,G3,35,15,8.0,82.0,4,26,4,63.0,64.8,3,2,2,2,0,False,sm,True,0,0,12.8,74.8,30.5,False,Medium,57.3
+STU0092,Stefan O'Sullivan,stefan.osullivan92@fictional-campus.test,19,Computer Science,1,G1,26,10,6.5,81.7,4,23,1,55.9,66.3,4,0,0,0,0,False,base,True,0,0,14.9,44.1,42.8,False,Medium,58.0
+STU0093,Tamara Stanton,tamara.stanton93@fictional-campus.test,20,Computer Science,2,G1,93,15,8.3,71.4,3,26,0,58.7,60.5,4,1,4,0,0,False,base,True,3,1,6.8,48.5,61.2,True,Low,54.8
+STU0094,Blaine Rudden,blaine.rudden94@fictional-campus.test,21,Marketing,4,G1,60,16,6.8,81.1,6,29,4,56.7,56.6,2,2,5,0,0,False,base,True,0,1,17.6,79.8,42.2,False,Low,54.2
+STU0095,Darren Connell,darren.connell95@fictional-campus.test,22,Business Studies,1,G3,45,10,8.3,58.7,4,28,5,28.0,59.0,4,1,1,1,0,False,base,True,22,3,15.0,82.5,85.1,True,Low,40.5
+STU0096,Anna Histon-McQuin,anna.histon.mcquin96@fictional-campus.test,20,Business Studies,1,G1,66,5,6.3,80.6,2,20,2,42.2,73.0,4,0,3,1,0,False,lg,False,2,2,5.0,60.2,63.2,True,Low,52.9
+STU0097,Seamus Ingoldsby,seamus.ingoldsby97@fictional-campus.test,21,Law,3,G1,13,19,5.3,80.8,7,29,6,53.4,65.4,5,2,2,2,1,True,base,False,15,0,13.6,47.5,49.8,False,Medium,62.5
+STU0098,Lucy Canning-Coyle,lucy.canning.coyle98@fictional-campus.test,18,Marketing,3,G3,41,10,8.1,69.6,2,20,2,43.4,60.0,5,3,7,1,0,False,lg,True,12,2,13.0,76.2,59.9,True,Low,46.7
+STU0099,Molly Shortt,molly.shortt99@fictional-campus.test,18,Psychology,2,G2,57,18,7.1,82.2,4,29,4,69.1,79.5,4,0,2,2,0,False,base,True,0,3,18.0,67.5,48.9,False,Medium,67.1
+STU0100,Dearbhla Guinnane,dearbhla.guinnane100@fictional-campus.test,18,Business Studies,1,G1,38,19,4.5,72.3,2,23,4,45.7,68.2,3,1,3,2,0,False,base,False,19,3,10.8,45.7,74.7,True,Low,48.9
+STU0101,Dr. Eoin Kerwick,dr..eoin.kerwick101@fictional-campus.test,18,Engineering,1,G1,56,12,6.5,90.9,2,12,4,63.3,61.0,3,1,1,1,0,False,lg,True,2,0,5.0,59.0,38.6,False,Medium,56.2
+STU0102,Caitlyn Lovett,caitlyn.lovett102@fictional-campus.test,19,Economics and Finance,1,G1,34,21,7.3,67.6,2,36,6,40.4,82.7,5,1,4,0,0,False,base,False,22,0,14.0,55.9,62.4,True,Medium,58.3
+STU0103,Ellie Cook,ellie.cook103@fictional-campus.test,22,Data Analytics,4,G1,36,16,6.5,72.8,3,32,4,43.0,73.0,4,1,6,1,0,False,base,False,22,3,5.0,53.7,76.7,True,Low,51.8
+STU0104,Michael Daniel,michael.daniel104@fictional-campus.test,18,Data Analytics,4,G2,30,18,5.6,71.0,6,26,3,48.0,75.0,7,0,2,0,0,False,base,True,6,0,10.1,54.8,56.7,True,Medium,55.8
+STU0105,Robin Hardy,robin.hardy105@fictional-campus.test,21,Economics and Finance,1,G2,92,9,7.2,78.0,3,21,8,55.9,58.5,6,3,9,1,0,False,base,True,13,0,14.8,44.1,62.7,True,Medium,63.0
+STU0106,Deirbhile Drum,deirbhile.drum106@fictional-campus.test,20,Engineering,1,G2,33,17,7.7,84.1,4,28,6,56.5,64.6,3,0,6,1,0,False,base,True,2,1,9.6,68.5,50.4,False,Medium,56.5
+STU0107,Toni Connellan,toni.connellan107@fictional-campus.test,24,Business Studies,1,G2,45,16,6.5,87.7,3,26,5,62.3,69.8,1,0,3,2,0,False,base,True,9,1,9.5,61.8,41.4,False,Medium,58.4
+STU0108,Joseph Lavan,joseph.lavan108@fictional-campus.test,22,Computer Science,2,G2,57,19,8.9,74.7,3,29,5,67.7,60.8,5,1,0,1,0,False,lg,True,15,0,5.0,74.7,40.3,False,Medium,61.1
+STU0109,Malachy Toner,malachy.toner109@fictional-campus.test,20,Computer Science,1,G3,69,15,5.7,71.1,4,13,6,42.0,55.5,5,2,5,0,1,False,base,True,13,2,5.0,57.5,71.1,True,Low,38.3
+STU0110,Miss Margaret Smyth,miss.margaret.smyth110@fictional-campus.test,21,Economics and Finance,3,G3,28,12,6.1,73.5,1,16,5,55.2,66.4,4,2,1,1,0,False,base,True,12,0,5.0,48.7,44.8,False,Medium,58.1
+STU0111,Ruari Loughrey,ruari.loughrey111@fictional-campus.test,24,Marketing,1,G2,83,9,8.8,78.9,5,19,3,73.9,57.5,6,1,5,0,0,False,base,True,8,0,5.0,79.9,42.1,False,Medium,59.6
+STU0112,Mr. Clifford Kerr,mr..clifford.kerr112@fictional-campus.test,19,Engineering,1,G3,40,14,6.8,71.3,4,30,7,47.1,57.6,3,1,7,0,0,False,sm,True,22,2,11.0,56.1,78.9,True,Low,45.4
+STU0113,Carter Walls,carter.walls113@fictional-campus.test,22,Law,1,G1,56,18,8.9,77.8,2,27,5,86.3,62.9,4,0,6,0,0,True,base,False,3,0,6.0,71.1,45.0,False,Medium,69.4
+STU0114,Frazer Landa,frazer.landa114@fictional-campus.test,22,Engineering,2,G1,66,10,6.9,91.3,3,18,4,66.3,55.3,4,3,6,1,0,False,lg,True,4,2,13.1,50.0,49.9,False,Low,54.6
+STU0115,Claudia McAnally-Guinane,claudia.mcanally.guinane115@fictional-campus.test,22,Psychology,4,G2,60,17,6.9,60.8,4,25,2,35.1,58.9,3,0,3,0,0,False,base,True,22,4,5.0,65.7,83.5,True,Low,47.5
+STU0116,Dr. Pauric Quinn,dr..pauric.quinn116@fictional-campus.test,19,Marketing,3,G2,23,10,8.0,70.9,4,22,2,51.8,59.2,3,0,0,1,0,False,base,True,16,2,15.3,68.0,65.5,True,Low,52.4
+STU0117,Benjamin Cullen-Morahan,benjamin.cullen.morahan117@fictional-campus.test,24,Business Studies,3,G2,9,28,6.9,90.0,4,34,7,57.6,92.3,5,0,3,1,0,False,sm,True,5,1,7.4,59.4,42.0,False,High,74.1
+STU0118,Miss Alison Ansboro,miss.alison.ansboro118@fictional-campus.test,19,Data Analytics,1,G1,42,10,7.9,67.6,3,28,2,35.1,73.6,3,4,3,0,1,False,base,False,21,4,16.2,79.9,76.5,True,Low,48.2
+STU0119,Sara Downing,sara.downing119@fictional-campus.test,20,Economics and Finance,1,G3,41,18,9.5,86.7,2,26,3,84.4,81.3,2,2,3,0,0,False,base,True,0,0,14.6,99.8,36.0,False,High,78.0
+STU0120,Dr. Cormac Neary,dr..cormac.neary120@fictional-campus.test,18,Marketing,2,G2,49,21,4.7,86.5,1,27,5,57.7,56.3,1,1,3,1,0,False,base,False,0,1,5.1,35.5,55.5,True,Low,54.4
+STU0121,Orlaigh Mulcair,orlaigh.mulcair121@fictional-campus.test,18,Business Studies,3,G2,20,22,6.6,74.5,1,36,8,68.0,70.3,1,3,8,0,0,False,sm,True,0,0,9.0,47.9,50.0,False,Medium,64.6
+STU0122,Adele Dermody,adele.dermody122@fictional-campus.test,22,Business Studies,1,G3,52,8,7.1,75.5,1,12,5,28.0,53.5,1,2,3,0,0,False,sm,True,13,4,6.5,59.9,84.7,True,Low,37.0
+STU0123,Conchur Torpey,conchur.torpey123@fictional-campus.test,21,Computer Science,1,G3,42,17,6.6,82.7,2,34,6,64.3,67.9,6,3,8,0,0,False,lg,True,14,2,16.4,48.8,56.2,True,Medium,55.1
+STU0124,Joseph Waldron,joseph.waldron124@fictional-campus.test,20,Computer Science,4,G3,55,18,6.6,90.7,5,31,4,62.3,68.1,4,1,3,0,0,False,sm,True,0,0,7.9,46.7,49.2,False,Medium,66.1
+STU0125,Luke Dordan,luke.dordan125@fictional-campus.test,19,Data Analytics,1,G3,59,13,5.5,65.9,4,22,1,51.3,64.3,7,2,6,2,0,False,base,True,0,2,6.9,50.7,58.4,True,Low,47.3
+STU0126,Hamish McElhattin,hamish.mcelhattin126@fictional-campus.test,18,Psychology,1,G3,5,22,7.7,81.8,5,30,3,59.3,94.1,3,2,6,0,0,False,base,False,3,3,16.6,70.5,55.0,True,High,72.2
+STU0127,Mr. Johnny Hanlon,mr..johnny.hanlon127@fictional-campus.test,22,Law,3,G3,64,13,8.3,65.1,6,19,6,51.1,45.5,8,1,5,0,0,True,base,True,12,0,16.5,74.8,52.5,True,Low,51.3
+STU0128,Mr. Caomhan McCollam,mr..caomhan.mccollam128@fictional-campus.test,21,Economics and Finance,1,G1,9,12,6.4,70.0,4,32,3,50.7,78.4,3,1,2,0,0,False,base,False,5,1,10.9,51.5,47.0,False,Low,50.2
+STU0129,Dr. Tristan Fennell,dr..tristan.fennell129@fictional-campus.test,20,Data Analytics,4,G1,58,20,5.7,84.0,2,27,3,58.4,65.3,4,0,0,0,0,False,base,True,19,2,9.9,37.0,64.0,True,Medium,55.8
+STU0130,Cory Garry,cory.garry130@fictional-campus.test,20,Business Studies,1,G2,33,8,6.0,96.3,4,13,6,56.5,57.5,6,0,1,0,0,False,base,True,0,0,5.9,74.2,35.7,False,Low,52.7
+STU0131,Alana Gavigan,alana.gavigan131@fictional-campus.test,21,Economics and Finance,1,G2,5,16,5.9,81.5,3,36,3,46.3,53.1,2,2,4,2,0,False,base,True,20,1,10.1,59.8,73.4,True,Low,48.0
+STU0132,Miss Savannah Mellet,miss.savannah.mellet132@fictional-campus.test,18,Marketing,3,G2,41,19,6.4,71.1,1,32,8,47.1,73.8,4,3,6,0,0,False,base,True,0,2,10.4,67.0,55.3,True,Medium,56.2
+STU0133,Mr. Fintan Finneran,mr..fintan.finneran133@fictional-campus.test,17,Computer Science,3,G3,82,20,6.3,78.1,6,27,10,49.9,83.6,3,2,6,0,0,False,lg,True,7,3,8.3,57.2,59.5,True,Medium,60.6
+STU0134,Mr. Karl Campbell,mr..karl.campbell134@fictional-campus.test,24,Business Studies,1,G1,41,10,6.6,81.4,4,12,4,56.8,34.9,9,2,4,1,0,False,sm,True,0,0,6.1,58.5,56.3,True,Low,49.4
+STU0135,Dr. Collette Grennan,dr..collette.grennan135@fictional-campus.test,19,Marketing,2,G2,61,14,6.7,81.1,4,20,4,50.7,62.5,3,0,3,1,0,False,base,False,0,0,11.8,52.0,45.6,False,Low,49.6
+STU0136,Dr. Faith Lysaght,dr..faith.lysaght136@fictional-campus.test,23,Psychology,2,G1,45,14,6.7,76.0,5,32,2,43.4,61.6,3,3,4,0,0,False,base,True,22,4,11.4,50.6,72.1,True,Low,54.9
+STU0137,Ms. Connie Branaola,ms..connie.branaola137@fictional-campus.test,21,Law,1,G3,19,13,5.5,73.0,1,26,6,40.9,62.1,2,1,6,0,1,False,base,True,17,2,10.0,52.8,77.2,True,Low,45.3
+STU0138,Mr. Kirk Macrea,mr..kirk.macrea138@fictional-campus.test,20,Economics and Finance,1,G3,60,11,8.4,92.5,4,28,5,60.0,70.0,7,0,4,1,0,False,lg,True,8,0,7.4,64.6,43.8,False,Medium,63.2
+STU0139,Brendan Lacy-McCaul,brendan.lacy.mccaul139@fictional-campus.test,18,Law,1,G1,58,18,7.6,90.4,4,25,3,68.3,80.1,2,0,0,0,0,False,base,False,0,2,5.0,44.9,57.3,True,Medium,62.9
+STU0140,Dr. Robert Magill,dr..robert.magill140@fictional-campus.test,22,Law,4,G1,7,8,8.0,81.0,2,13,4,63.0,73.4,2,1,2,0,0,False,base,True,6,0,5.0,72.7,43.1,False,Medium,64.0
+STU0141,Chris Keogan,chris.keogan141@fictional-campus.test,20,Economics and Finance,3,G3,31,17,6.5,86.7,2,28,2,44.2,70.5,2,1,5,0,0,False,base,True,0,3,6.6,66.3,62.0,True,Low,54.5
+STU0142,Shea Kerwick,shea.kerwick142@fictional-campus.test,19,Engineering,1,G1,85,12,5.3,67.1,2,16,3,37.7,61.9,5,2,7,0,1,False,base,True,0,0,6.0,39.4,59.5,True,Low,44.7
+STU0143,Cathal Mulroy,cathal.mulroy143@fictional-campus.test,19,Data Analytics,3,G2,38,10,6.1,91.2,4,22,5,44.2,71.9,3,2,3,0,1,True,sm,True,0,4,11.8,60.1,61.1,True,Low,46.5
+STU0144,Rebecca MacElgunn,rebecca.macelgunn144@fictional-campus.test,21,Law,2,G3,84,22,7.6,87.3,6,22,5,69.0,78.1,5,1,1,0,0,False,base,True,0,1,9.1,49.5,50.9,False,Medium,68.6
+STU0145,Madison Sayers,madison.sayers145@fictional-campus.test,22,Computer Science,2,G3,65,8,5.5,84.1,6,25,2,32.4,55.8,5,2,5,0,0,False,lg,False,0,4,5.0,35.0,70.7,True,Low,43.3
+STU0146,Keelan Givern,keelan.givern146@fictional-campus.test,20,Psychology,3,G1,5,14,7.1,74.5,3,16,3,47.4,66.0,5,0,1,1,0,False,base,True,18,1,5.0,55.8,61.0,True,Low,43.0
+STU0147,Bailey Mulvin-Aherne,bailey.mulvin.aherne147@fictional-campus.test,19,Marketing,1,G1,52,12,7.2,97.9,3,29,3,56.2,49.6,3,0,2,0,0,False,base,False,0,1,8.6,69.4,44.4,False,Low,54.3
+STU0148,Shannen Tehan,shannen.tehan148@fictional-campus.test,18,Engineering,2,G3,70,19,7.2,100.0,5,33,5,72.5,82.3,5,1,1,1,0,False,base,True,0,0,8.1,63.1,36.9,False,Medium,68.3
+STU0149,Mr. Jonathon Mullen,mr..jonathon.mullen149@fictional-campus.test,20,Psychology,1,G1,75,13,7.6,69.5,2,26,7,46.9,62.3,3,0,4,1,1,False,base,True,12,3,8.0,63.0,71.7,True,Low,51.2
+STU0150,Jaime MacEver,jaime.macever150@fictional-campus.test,23,Computer Science,1,G2,58,13,7.9,71.5,3,26,3,64.3,67.6,2,0,0,0,0,False,base,True,5,1,5.0,72.4,57.4,True,Medium,56.0
+STU0151,Mr. Graeme Rowe,mr..graeme.rowe151@fictional-campus.test,25,Engineering,2,G3,5,20,7.8,87.3,6,26,4,77.2,72.4,8,0,5,0,0,False,lg,True,6,0,5.7,71.4,41.7,False,High,77.2
+STU0152,Kyle MacWilliams-McQuaid,kyle.macwilliams.mcquaid152@fictional-campus.test,20,Economics and Finance,1,G2,71,1,6.5,66.6,5,10,2,46.9,32.7,8,1,3,0,0,True,base,False,0,2,7.5,50.7,77.2,True,Low,38.5
+STU0153,Miss Kristina Doran,miss.kristina.doran153@fictional-campus.test,21,Psychology,2,G3,58,13,6.2,60.6,3,27,5,41.6,54.8,3,2,7,0,0,False,base,True,16,1,18.2,58.1,61.0,True,Low,47.1
+STU0154,Lloyd McGowern,lloyd.mcgowern154@fictional-campus.test,19,Engineering,1,G1,15,12,5.6,87.3,2,18,5,47.7,67.3,1,1,2,0,0,False,base,True,0,1,5.6,41.4,49.2,False,Medium,56.2
+STU0155,Mr. Travis Lucey,mr..travis.lucey155@fictional-campus.test,27,Economics and Finance,1,G1,39,16,6.9,81.3,4,18,6,55.7,70.0,3,1,3,0,1,False,base,True,0,2,7.7,62.0,53.7,False,Medium,64.6
+STU0156,Kirsty Adams,kirsty.adams156@fictional-campus.test,20,Psychology,1,G1,36,16,8.5,91.1,1,34,6,68.2,74.1,3,1,0,0,0,False,base,True,0,3,8.3,78.1,51.6,False,Medium,61.4
+STU0157,George Hanlon-Mullaly,george.hanlon.mullaly157@fictional-campus.test,20,Marketing,1,G1,12,11,6.8,66.2,3,20,2,41.7,48.0,7,1,5,0,0,True,base,True,10,2,16.6,62.0,62.6,True,Low,39.2
+STU0158,Dr. Morgan Neary,dr..morgan.neary158@fictional-campus.test,19,Economics and Finance,2,G2,66,11,6.5,66.1,3,26,5,45.9,42.3,2,2,4,0,0,False,base,True,10,1,7.7,50.0,61.6,True,Low,40.5
+STU0159,Natasha Haren,natasha.haren159@fictional-campus.test,18,Engineering,1,G3,14,14,6.3,79.8,3,33,6,47.5,62.2,7,3,7,1,0,False,base,True,7,2,19.3,80.4,58.8,True,Low,54.1
+STU0160,Julie-Anne Freeley,julie.anne.freeley160@fictional-campus.test,24,Computer Science,2,G3,66,20,7.5,94.6,3,21,5,71.4,83.4,5,2,5,2,0,True,base,True,7,1,14.1,78.4,38.7,False,High,73.0
+STU0161,Mr. Geoffrey Setrick,mr..geoffrey.setrick161@fictional-campus.test,21,Data Analytics,2,G3,18,8,7.3,75.4,4,24,3,43.4,62.5,3,2,6,0,0,False,base,True,0,3,5.0,68.1,75.9,True,Low,45.4
+STU0162,Dr. Calvin Hishon,dr..calvin.hishon162@fictional-campus.test,22,Law,2,G3,49,21,8.6,100.0,3,38,9,81.0,88.7,3,2,3,0,0,True,base,True,0,0,11.8,91.5,24.5,False,High,77.4
+STU0163,Dr. Eamonn Green,dr..eamonn.green163@fictional-campus.test,18,Data Analytics,3,G1,5,18,6.5,100.0,5,29,3,52.9,69.8,6,0,0,3,0,False,base,True,0,2,5.5,67.8,49.0,False,Medium,56.4
+STU0164,Alister Casey,alister.casey164@fictional-campus.test,20,Marketing,1,G3,67,13,6.0,80.0,4,27,3,41.0,61.9,5,2,6,2,0,True,base,True,13,2,10.6,46.2,57.8,True,Low,44.6
+STU0165,Neil Cooke,neil.cooke165@fictional-campus.test,19,Computer Science,1,G2,19,22,8.3,78.4,4,30,6,76.6,74.9,2,4,3,0,0,True,base,True,4,1,12.1,100.0,45.4,False,High,77.0
+STU0166,Jamie-Leigh Gorevan,jamie.leigh.gorevan166@fictional-campus.test,23,Economics and Finance,1,G1,22,12,8.1,86.2,1,20,2,57.3,59.3,2,3,6,0,0,False,base,True,0,2,5.0,82.6,58.1,True,Medium,58.0
+STU0167,Dr. Katherine McNicholas,dr..katherine.mcnicholas167@fictional-campus.test,22,Data Analytics,3,G1,29,25,4.9,93.0,4,27,7,69.0,75.3,6,2,7,0,0,False,base,True,0,0,10.7,37.4,54.0,False,High,70.9
+STU0168,Conan Baker,conan.baker168@fictional-campus.test,18,Law,3,G1,39,27,6.2,88.0,5,42,4,60.6,75.1,5,2,2,0,0,False,base,True,16,1,12.7,51.8,54.6,False,Medium,68.1
+STU0169,Mr. Lorcan Hasty,mr..lorcan.hasty169@fictional-campus.test,25,Business Studies,1,G1,26,9,7.2,85.3,3,21,2,54.0,64.9,6,1,8,0,0,False,base,True,0,3,11.0,78.2,55.1,True,Low,52.2
+STU0170,Piaras O'Hegarty,piaras.ohegarty170@fictional-campus.test,21,Marketing,2,G2,23,22,7.8,75.7,3,29,4,55.7,76.0,5,2,6,0,1,False,lg,True,20,2,16.2,63.0,57.2,True,Medium,56.6
+STU0171,Ryan Johnstone,ryan.johnstone171@fictional-campus.test,24,Marketing,1,G1,10,9,6.8,61.3,3,15,1,42.7,57.9,5,1,0,1,0,False,lg,True,18,2,6.2,40.3,77.5,True,Low,46.6
+STU0172,Mrs. Jody Duane,mrs..jody.duane172@fictional-campus.test,19,Law,2,G1,24,12,5.0,81.4,3,22,1,46.1,74.8,2,0,1,1,0,False,lg,False,0,1,5.2,38.8,51.7,False,Low,53.6
+STU0173,Dr. Rian Wilson,dr..rian.wilson173@fictional-campus.test,22,Data Analytics,1,G3,12,18,4.6,82.5,5,33,4,55.9,76.5,4,1,4,0,0,False,base,True,5,0,13.9,37.5,41.4,False,Low,53.8
+STU0174,Eloise Neehan-Rogerson,eloise.neehan.rogerson174@fictional-campus.test,21,Economics and Finance,2,G2,53,16,8.3,71.3,3,24,2,57.9,80.8,3,0,0,1,0,False,sm,False,0,0,10.4,75.5,49.0,False,Medium,67.7
+STU0175,Siofra Trenor,siofra.trenor175@fictional-campus.test,21,Business Studies,4,G3,5,15,7.7,84.5,5,19,6,56.1,75.3,5,2,4,0,0,False,base,True,0,0,11.9,64.4,30.8,False,Medium,64.3
+STU0176,Vanessa Finnegan,vanessa.finnegan176@fictional-campus.test,21,Data Analytics,1,G3,40,17,7.0,47.7,3,23,6,28.0,59.8,6,0,0,0,0,False,sm,False,16,4,5.0,55.7,89.9,True,Low,38.7
+STU0177,Dr. Joanna Kenlan,dr..joanna.kenlan177@fictional-campus.test,19,Computer Science,1,G3,6,11,7.7,90.3,5,23,3,57.1,74.6,7,0,0,0,0,False,base,False,2,1,5.0,78.6,45.6,False,Medium,55.6
+STU0178,Mr. Zach Kirke,mr..zach.kirke178@fictional-campus.test,21,Economics and Finance,1,G3,28,9,8.9,75.0,4,16,2,72.1,66.5,6,2,7,0,0,False,base,False,0,0,5.8,95.3,39.2,False,Medium,68.5
+STU0179,Dr. Tyrone Horgan,dr..tyrone.horgan179@fictional-campus.test,19,Data Analytics,3,G1,62,15,8.1,79.8,4,24,2,56.7,84.0,5,1,6,0,1,False,base,True,5,0,10.6,65.0,38.7,False,Medium,67.5
+STU0180,Malcolm Cosgrave-Laverty,malcolm.cosgrave.laverty180@fictional-campus.test,18,Law,1,G2,54,12,6.5,70.1,4,15,4,33.3,54.9,6,3,9,0,0,False,base,True,15,4,10.0,79.7,74.9,True,Low,41.7
+STU0181,Frazer Mannion,frazer.mannion181@fictional-campus.test,18,Economics and Finance,1,G1,60,16,6.4,83.3,2,23,6,59.3,62.7,5,3,6,0,1,False,sm,False,2,0,17.8,60.1,40.1,False,Medium,60.8
+STU0182,Una Tiernan,una.tiernan182@fictional-campus.test,25,Law,4,G2,38,23,9.0,87.8,3,32,8,59.2,80.2,5,2,3,0,0,False,base,True,22,5,7.9,76.4,73.3,True,Medium,67.1
+STU0183,Colin Fealy,colin.fealy183@fictional-campus.test,19,Psychology,1,G2,50,19,4.5,76.4,3,32,8,61.5,66.3,4,0,2,0,0,True,base,True,4,0,5.5,42.9,43.9,False,Medium,58.1
+STU0184,Kealan Fegan,kealan.fegan184@fictional-campus.test,19,Business Studies,3,G3,35,20,5.4,87.4,2,26,7,49.4,66.8,7,1,6,0,0,False,base,False,3,3,16.4,35.2,68.5,True,Medium,59.1
+STU0185,Ms. Andrea Millea,ms..andrea.millea185@fictional-campus.test,27,Economics and Finance,2,G2,55,18,8.0,87.9,3,23,6,71.8,67.5,4,2,6,1,0,False,base,False,1,0,9.9,83.1,34.1,False,Medium,67.9
+STU0186,Erica Tolan,erica.tolan186@fictional-campus.test,18,Engineering,3,G3,40,14,6.4,75.3,2,26,5,38.4,61.3,6,0,0,0,0,False,base,True,17,4,5.0,55.2,80.9,True,Low,51.6
+STU0187,Jamie-Leigh Colreavy,jamie.leigh.colreavy187@fictional-campus.test,28,Law,2,G1,12,15,7.0,91.5,2,19,4,60.1,74.7,0,0,1,0,0,False,base,True,4,2,10.5,55.7,45.8,False,Medium,63.9
+STU0188,Lloyd McKernon,lloyd.mckernon188@fictional-campus.test,21,Business Studies,2,G3,25,23,6.9,97.1,1,32,6,75.6,92.9,4,1,7,1,0,False,base,True,0,0,5.0,64.6,34.3,False,High,73.8
+STU0189,Mr. Shane McGrory,mr..shane.mcgrory189@fictional-campus.test,18,Business Studies,2,G1,61,10,6.2,82.7,2,12,2,63.6,53.9,5,1,3,0,0,False,lg,False,0,1,8.9,43.5,52.2,False,Medium,55.0
+STU0190,Abigail McCausland,abigail.mccausland190@fictional-campus.test,20,Data Analytics,4,G3,80,21,6.9,72.7,2,26,5,50.9,43.6,5,1,2,0,0,False,base,True,8,1,9.2,53.8,65.3,True,Low,46.5
+STU0191,Kelvin Mohan-Teahan,kelvin.mohan.teahan191@fictional-campus.test,20,Computer Science,2,G2,45,19,7.1,88.4,6,35,2,37.5,76.1,3,0,4,1,0,False,base,False,23,5,15.1,62.7,76.5,True,Medium,56.3
+STU0192,Ms. Karley Haugh,ms..karley.haugh192@fictional-campus.test,20,Data Analytics,1,G1,33,13,7.4,78.7,4,20,9,34.3,65.4,7,2,6,1,0,False,base,True,24,5,19.9,62.3,85.9,True,Low,47.1
+STU0193,Mairtin Quaide-Brown,mairtin.quaide.brown193@fictional-campus.test,20,Economics and Finance,4,G3,32,21,6.5,88.4,4,25,6,49.1,72.6,4,0,3,0,0,False,base,True,20,4,11.1,63.0,69.7,True,Low,52.0
+STU0194,Eryn McReady,eryn.mcready194@fictional-campus.test,20,Psychology,3,G2,74,16,6.5,84.7,3,16,4,57.5,62.1,3,2,6,0,0,False,base,True,0,0,5.0,49.5,34.6,False,Medium,60.7
+STU0195,Ms. Stacey O'Keeffe,ms..stacey.okeeffe195@fictional-campus.test,18,Economics and Finance,1,G3,52,14,7.5,86.2,4,28,6,64.1,64.3,5,1,5,2,0,True,base,True,0,1,18.7,62.5,47.1,False,Medium,55.6
+STU0196,Troy Storey,troy.storey196@fictional-campus.test,18,Psychology,2,G3,20,17,8.8,87.2,3,23,7,56.2,60.3,4,2,7,1,0,False,base,True,15,3,5.0,89.9,60.8,True,Medium,56.0
+STU0197,Kevin Briody,kevin.briody197@fictional-campus.test,24,Engineering,3,G1,48,16,9.3,80.5,2,23,2,57.3,79.5,2,1,4,1,0,False,base,True,7,1,11.4,81.7,50.7,False,Medium,60.1
+STU0198,Lucas Duncan,lucas.duncan198@fictional-campus.test,28,Computer Science,2,G3,36,11,6.9,70.6,4,23,6,50.5,61.6,1,1,3,0,0,False,base,True,0,0,14.2,66.7,49.9,False,Low,53.5
+STU0199,Dr. Charlotte Claffey,dr..charlotte.claffey199@fictional-campus.test,21,Computer Science,3,G3,14,19,5.6,92.7,3,29,7,73.0,70.3,3,2,5,0,0,False,base,True,0,0,12.9,48.9,40.3,False,Medium,67.5
+STU0200,Kane Mackey-Hannon,kane.mackey.hannon200@fictional-campus.test,21,Law,1,G2,46,11,7.2,66.0,4,14,3,29.4,42.2,4,3,5,2,0,False,lg,True,22,4,11.0,67.3,79.1,True,Low,31.5
+STU0201,Emma-Louise Marley,emma.louise.marley201@fictional-campus.test,21,Business Studies,4,G1,36,20,8.6,90.2,4,32,3,75.6,74.0,6,2,7,1,0,False,base,True,2,0,11.2,69.1,37.2,False,Medium,60.6
+STU0202,Dr. Garrett Monks,dr..garrett.monks202@fictional-campus.test,20,Business Studies,3,G2,11,21,8.9,84.7,3,27,5,82.6,69.0,2,1,6,0,0,False,base,True,0,0,13.3,76.5,40.7,False,High,72.5
+STU0203,Cailum O'Mara-Boner,cailum.omara.boner203@fictional-campus.test,20,Economics and Finance,1,G1,21,8,5.4,82.4,5,14,1,50.8,50.2,5,0,1,0,0,False,base,True,14,0,8.5,52.5,45.9,False,Low,42.2
+STU0204,Mrs. Faith Heeney,mrs..faith.heeney204@fictional-campus.test,25,Psychology,2,G3,33,22,6.4,81.1,3,32,7,75.3,72.4,3,2,4,0,1,False,lg,True,9,0,14.8,66.7,32.1,False,High,70.8
+STU0205,Mr. Arron Burke,mr..arron.burke205@fictional-campus.test,19,Computer Science,1,G1,55,9,6.3,82.5,2,17,1,43.1,56.1,1,1,0,0,0,False,base,True,3,3,14.7,52.0,61.8,True,Low,46.1
+STU0206,Declan Borland,declan.borland206@fictional-campus.test,19,Business Studies,1,G1,38,17,7.2,95.4,3,26,4,64.8,74.6,6,0,3,1,0,False,base,True,0,2,8.5,39.3,43.6,False,High,71.0
+STU0207,Carolyn Horan-Doohan,carolyn.horan.doohan207@fictional-campus.test,20,Law,4,G3,22,13,6.7,83.7,4,30,5,43.0,70.2,5,1,2,0,0,False,base,True,8,2,12.7,69.2,47.7,False,Medium,63.8
+STU0208,Naomh Devereaux Deaueroux,naomh.devereaux.deaueroux208@fictional-campus.test,20,Psychology,1,G3,26,12,7.0,84.4,2,24,6,59.0,49.4,4,1,5,0,0,False,base,True,3,0,9.4,54.8,49.4,False,Low,48.7
+STU0209,Codie O'Herlihy-Keenaghan,codie.oherlihy.keenaghan209@fictional-campus.test,19,Law,2,G3,50,15,8.6,73.9,5,20,6,58.5,60.7,4,0,2,1,0,True,base,False,16,3,9.7,81.9,65.1,True,Medium,63.2
+STU0210,Dr. Curtis Devereux,dr..curtis.devereux210@fictional-campus.test,20,Law,1,G2,30,18,6.2,83.0,6,26,4,52.4,68.0,7,0,2,0,0,False,base,True,12,2,5.2,58.2,53.1,False,Medium,57.1
+STU0211,Mr. Harvey Deery,mr..harvey.deery211@fictional-campus.test,20,Data Analytics,1,G2,5,12,5.3,69.9,4,13,3,47.8,49.6,6,0,1,2,0,False,base,True,11,0,7.8,50.2,52.5,False,Low,48.2
+STU0212,Alanis MacDonald-McGinty,alanis.macdonald.mcginty212@fictional-campus.test,19,Computer Science,1,G1,54,15,7.4,73.2,5,29,7,64.8,87.5,5,2,4,0,1,True,base,True,10,0,7.8,75.2,43.9,False,Medium,68.2
+STU0213,Patricia Greehy,patricia.greehy213@fictional-campus.test,20,Engineering,1,G1,73,15,6.1,71.0,3,27,5,48.1,71.5,6,2,3,0,0,False,base,True,11,1,6.3,41.8,56.5,True,Medium,60.9
+STU0214,Stuart Hunter,stuart.hunter214@fictional-campus.test,23,Marketing,2,G2,58,19,8.5,91.2,6,24,3,71.8,80.3,6,2,7,2,0,False,base,True,10,0,8.9,75.4,34.4,False,High,72.9
+STU0215,Graham Diviney,graham.diviney215@fictional-campus.test,22,Computer Science,1,G1,23,16,6.9,67.4,3,31,5,50.6,71.4,7,0,3,0,0,False,base,True,12,1,13.3,52.7,41.6,True,Medium,55.2
+STU0216,Mr. Jeffrey Steward,mr..jeffrey.steward216@fictional-campus.test,19,Data Analytics,4,G2,5,22,8.8,84.6,1,31,6,70.5,76.3,0,1,0,1,0,False,lg,False,12,0,5.0,80.6,39.0,False,Medium,67.0
+STU0217,Nadia McGarrigle,nadia.mcgarrigle217@fictional-campus.test,22,Computer Science,2,G1,63,15,6.8,94.0,3,25,1,62.9,77.5,4,1,2,0,0,False,base,False,0,2,6.1,54.2,54.7,False,Medium,64.3
+STU0218,Peadar McAleavy,peadar.mcaleavy218@fictional-campus.test,21,Law,3,G1,43,15,7.0,100.0,3,18,4,70.0,72.9,2,0,2,0,0,False,lg,True,0,0,14.0,66.8,28.5,False,High,73.7
+STU0219,Lloyd Rafter,lloyd.rafter219@fictional-campus.test,18,Data Analytics,1,G2,30,17,6.1,78.5,6,28,5,48.4,76.6,5,2,6,0,0,False,lg,True,10,1,13.8,48.8,54.7,False,Medium,58.2
+STU0220,Lyndon McDevitt,lyndon.mcdevitt220@fictional-campus.test,22,Data Analytics,2,G3,32,13,8.2,73.9,5,16,5,49.4,62.6,3,1,4,1,0,False,base,True,15,2,11.3,65.1,63.4,True,Medium,59.4
+STU0221,Dr. Connor Mulvenna,dr..connor.mulvenna221@fictional-campus.test,21,Law,2,G2,16,18,7.3,74.6,3,28,5,55.0,58.6,3,0,0,0,1,False,lg,True,4,0,10.1,57.1,44.2,False,Low,52.2
+STU0222,Raymond Kilgallon,raymond.kilgallon222@fictional-campus.test,19,Law,3,G2,51,14,8.7,84.5,5,18,4,71.2,65.9,8,1,4,0,0,False,base,True,11,0,13.5,84.2,41.7,False,Medium,59.4
+STU0223,Shannon Teahan-Poland,shannon.teahan.poland223@fictional-campus.test,19,Economics and Finance,4,G2,43,18,7.7,70.1,4,34,3,47.2,59.6,6,1,5,0,0,False,base,True,9,3,11.3,80.6,66.6,True,Low,50.6
+STU0224,Jena Kilbride,jena.kilbride224@fictional-campus.test,23,Engineering,3,G3,23,18,8.0,78.4,3,29,3,52.5,55.3,3,0,5,0,0,False,lg,False,13,3,19.1,74.1,53.1,False,Low,48.0
+STU0225,Tamara Iago,tamara.iago225@fictional-campus.test,22,Economics and Finance,2,G3,43,21,6.1,100.0,6,37,3,60.5,71.2,2,3,2,2,0,False,base,True,0,1,7.3,60.9,36.0,False,High,70.6
+STU0226,Mrs. Dionne O'Brazil,mrs..dionne.obrazil226@fictional-campus.test,23,Psychology,2,G2,51,19,6.6,92.9,4,32,7,74.6,76.4,5,1,1,0,1,False,base,True,0,0,10.0,71.1,38.4,False,High,72.5
+STU0227,Mitchell McGowern,mitchell.mcgowern227@fictional-campus.test,22,Business Studies,3,G3,5,23,5.1,80.8,4,30,7,58.7,81.6,6,2,3,1,0,True,sm,True,12,0,15.8,47.6,52.1,False,Medium,69.7
+STU0228,Alanna Reddin,alanna.reddin228@fictional-campus.test,21,Business Studies,1,G2,51,16,8.1,87.4,6,22,3,71.3,57.1,6,2,9,0,0,False,base,True,10,1,14.8,80.8,44.5,False,Medium,61.5
+STU0229,Miss Charlotte Quilty,miss.charlotte.quilty229@fictional-campus.test,27,Marketing,2,G1,19,20,6.9,100.0,5,26,3,58.9,66.5,4,0,1,1,0,False,lg,False,14,2,5.1,67.7,49.8,False,Medium,57.7
+STU0230,John Keller,john.keller230@fictional-campus.test,20,Data Analytics,1,G3,29,16,7.2,86.6,3,26,4,59.5,85.3,2,1,5,1,0,False,base,True,17,0,13.7,58.0,42.2,False,Medium,67.3
+STU0231,Donna Kinnon,donna.kinnon231@fictional-campus.test,22,Psychology,3,G1,5,14,6.3,84.4,4,21,4,50.8,63.1,4,1,5,0,0,False,base,True,0,2,12.3,54.1,63.6,True,Low,54.5
+STU0232,Aideen Shannon,aideen.shannon232@fictional-campus.test,21,Marketing,2,G1,5,10,6.8,65.6,2,11,6,28.0,59.0,4,1,1,0,0,False,base,True,11,2,7.0,61.7,73.1,True,Low,39.1
+STU0233,Caleb Howard,caleb.howard233@fictional-campus.test,26,Data Analytics,4,G3,74,16,8.4,68.4,3,26,2,66.6,66.6,3,1,3,1,0,True,base,True,11,0,7.8,63.3,60.7,True,Medium,60.1
+STU0234,Dr. Kate Watters,dr..kate.watters234@fictional-campus.test,25,Business Studies,1,G1,5,16,6.0,77.0,2,24,5,48.4,66.4,0,0,0,1,0,False,base,True,10,0,5.0,51.8,38.7,False,Medium,56.4
+STU0235,Mr. Neil Rahilly,mr..neil.rahilly235@fictional-campus.test,20,Business Studies,4,G3,76,15,6.2,86.1,4,29,6,63.1,66.2,7,2,3,0,0,False,sm,True,0,1,14.4,55.1,48.6,False,Medium,57.8
+STU0236,Selina Blanch,selina.blanch236@fictional-campus.test,22,Law,1,G1,29,14,7.4,69.4,3,24,4,44.7,43.1,4,1,1,0,0,False,base,True,9,2,5.5,53.1,66.8,True,Low,43.8
+STU0237,Glen Heaney,glen.heaney237@fictional-campus.test,19,Economics and Finance,2,G1,51,13,6.1,79.0,5,25,6,45.4,51.3,3,1,4,1,0,False,base,False,0,3,8.1,56.6,65.0,True,Low,42.7
+STU0238,Nora Hurley,nora.hurley238@fictional-campus.test,27,Psychology,3,G3,16,16,4.5,78.4,3,14,8,43.4,54.6,2,1,4,1,0,False,base,True,11,1,5.1,44.6,60.4,True,Low,52.3
+STU0239,Shea McFarland-O'Reilly,shea.mcfarland.oreilly239@fictional-campus.test,20,Psychology,1,G1,13,10,8.7,87.5,2,20,2,66.9,66.7,0,2,3,0,0,False,base,True,8,1,9.2,65.3,44.8,False,Medium,67.5
+STU0240,Kerrie McAreavey,kerrie.mcareavey240@fictional-campus.test,19,Economics and Finance,4,G2,33,22,6.4,85.6,4,32,4,47.9,67.0,6,2,5,0,0,False,sm,False,21,3,10.1,39.3,75.4,True,Low,52.5
+STU0241,Robyn Twomey,robyn.twomey241@fictional-campus.test,20,Computer Science,4,G3,8,14,8.0,92.5,4,25,6,87.1,70.8,4,0,2,0,0,False,base,True,0,0,9.1,76.2,27.7,False,High,73.7
+STU0242,Faye O'Casey,faye.ocasey242@fictional-campus.test,19,Engineering,1,G3,55,14,8.7,88.1,1,29,8,53.8,78.2,0,0,1,2,0,False,base,True,0,2,5.0,79.2,61.6,True,Medium,62.7
+STU0243,Gregory Kealey-Herbert,gregory.kealey.herbert243@fictional-campus.test,19,Economics and Finance,4,G3,55,12,8.0,67.0,2,22,2,32.7,50.6,1,3,8,0,0,False,lg,True,18,4,16.0,61.5,75.9,True,Low,41.8
+STU0244,David MacGill,david.macgill244@fictional-campus.test,21,Engineering,2,G3,35,19,6.2,67.7,3,33,5,56.9,77.7,4,2,3,0,1,False,base,True,8,0,16.6,69.4,51.1,False,Medium,59.4
+STU0245,Robert Gill,robert.gill245@fictional-campus.test,21,Economics and Finance,2,G1,64,4,5.1,72.7,2,13,3,42.3,48.3,4,0,0,0,0,False,base,False,3,1,5.0,42.8,63.7,True,Low,47.1
+STU0246,Don Prendergast,don.prendergast246@fictional-campus.test,20,Data Analytics,2,G2,25,11,6.4,73.4,2,24,6,46.8,70.7,3,3,5,0,0,False,base,True,13,2,11.4,41.0,51.7,False,Medium,61.3
+STU0247,Steven Sinan-Lang,steven.sinan.lang247@fictional-campus.test,21,Engineering,1,G2,36,13,7.6,83.6,4,24,3,42.1,57.3,4,1,6,0,0,False,base,True,15,4,8.1,82.1,62.8,True,Low,41.7
+STU0248,Deaglan Logan,deaglan.logan248@fictional-campus.test,21,Business Studies,2,G2,47,16,5.5,88.6,2,21,2,53.8,62.0,6,1,4,0,0,False,sm,True,0,3,5.1,40.3,69.8,True,Medium,60.3
+STU0249,Jon Gavigan,jon.gavigan249@fictional-campus.test,21,Economics and Finance,4,G3,51,24,7.4,83.3,3,34,5,75.3,81.2,3,0,0,1,0,True,lg,True,0,0,6.1,65.0,41.3,False,High,73.2
+STU0250,Alastair Storey-Doolan,alastair.storey.doolan250@fictional-campus.test,19,Law,3,G1,49,16,8.0,72.1,4,26,3,52.8,57.1,6,0,2,0,0,False,base,True,18,1,10.3,68.6,56.6,True,Low,52.8
+STU0251,Bailie Clohessey-Walls,bailie.clohessey.walls251@fictional-campus.test,20,Engineering,2,G1,35,26,6.7,93.4,3,33,7,76.9,66.8,3,1,5,0,1,False,base,False,0,0,13.3,55.4,49.1,False,High,78.1
+STU0252,Cianan Rahilly-Davitt,cianan.rahilly.davitt252@fictional-campus.test,20,Law,3,G2,42,25,7.0,63.9,5,39,7,50.5,69.1,5,1,0,0,0,False,base,True,23,4,19.2,50.2,81.4,True,Medium,60.9
+STU0253,Mrs. Leona Largan,mrs..leona.largan253@fictional-campus.test,20,Marketing,2,G3,18,23,8.5,87.4,4,35,8,78.0,86.0,4,0,1,0,0,False,lg,False,0,0,10.5,68.3,31.5,False,High,78.8
+STU0254,Kaitlyn Nary,kaitlyn.nary254@fictional-campus.test,28,Computer Science,2,G1,7,13,7.2,85.5,3,25,3,63.1,60.4,3,1,2,0,0,False,lg,True,10,1,12.0,57.3,40.8,False,Medium,59.5
+STU0255,Chelsea Classon,chelsea.classon255@fictional-campus.test,21,Business Studies,1,G1,41,11,8.8,79.1,2,22,3,45.8,67.6,6,1,1,0,0,False,base,True,18,2,5.0,83.5,66.2,True,Low,47.6
+STU0256,Niall Dever-Condon,niall.dever.condon256@fictional-campus.test,18,Marketing,1,G2,42,10,6.8,76.9,5,6,4,54.6,37.4,8,3,5,0,0,True,base,True,13,1,14.0,60.5,43.6,False,Low,48.6
+STU0257,Katelyn Corcoran,katelyn.corcoran257@fictional-campus.test,23,Data Analytics,2,G1,77,13,5.8,77.1,2,24,4,47.0,60.2,2,3,7,1,0,False,base,True,0,0,14.8,60.1,58.8,True,Low,51.9
+STU0258,Meabh Clinten-Feeley,meabh.clinten.feeley258@fictional-campus.test,21,Economics and Finance,2,G2,71,18,5.0,93.0,4,22,5,60.1,62.0,6,2,6,2,0,False,base,True,5,1,12.9,56.7,53.5,False,Medium,60.6
+STU0259,Saul Lynchehaun,saul.lynchehaun259@fictional-campus.test,20,Data Analytics,1,G3,43,11,6.7,72.0,4,21,3,38.3,70.9,1,1,4,0,0,False,base,True,9,2,7.8,55.5,66.0,True,Medium,55.1
+STU0260,Eunan Dillane,eunan.dillane260@fictional-campus.test,20,Business Studies,1,G1,34,5,7.1,76.9,4,22,3,42.5,62.8,1,2,3,0,0,True,sm,True,1,0,12.5,62.5,52.2,False,Low,49.4
+STU0261,Samantha Milmo,samantha.milmo261@fictional-campus.test,19,Marketing,3,G3,61,24,7.0,94.9,5,34,5,64.2,68.7,3,0,1,1,0,False,base,True,0,1,12.8,71.9,51.0,False,Medium,65.4
+STU0262,Lydia Hehir-Short,lydia.hehir.short262@fictional-campus.test,21,Data Analytics,1,G2,52,16,6.9,88.7,1,24,4,73.9,73.6,4,2,1,2,0,False,base,True,0,0,8.7,51.4,33.5,False,Medium,68.5
+STU0263,Joanna Neelan,joanna.neelan263@fictional-campus.test,20,Data Analytics,2,G3,30,10,6.2,85.1,6,24,4,59.3,58.3,7,3,5,1,0,False,base,True,0,0,16.0,52.1,41.0,False,Low,54.2
+STU0264,Steven Mulhare-Lysaght,steven.mulhare.lysaght264@fictional-campus.test,20,Engineering,1,G2,26,12,7.9,84.6,3,24,5,50.4,80.3,2,0,0,1,0,True,sm,True,14,2,5.9,63.5,49.1,False,Low,46.0
+STU0265,Martha Collen-Daly,martha.collen.daly265@fictional-campus.test,28,Law,1,G2,37,17,9.4,90.7,1,18,0,63.7,82.4,7,1,3,2,0,False,base,True,0,2,11.0,66.2,50.9,False,Medium,63.8
+STU0266,Mr. Tyrone Hanncard,mr..tyrone.hanncard266@fictional-campus.test,24,Economics and Finance,1,G3,53,16,6.4,81.5,3,29,2,35.1,63.2,6,1,0,0,0,False,sm,True,1,5,13.6,51.5,69.6,True,Low,49.6
+STU0267,Cailum Field-Hoskins,cailum.field.hoskins267@fictional-campus.test,26,Computer Science,2,G1,22,16,8.4,81.9,5,30,8,65.5,62.1,5,1,4,2,0,False,base,True,8,1,21.1,55.5,56.4,True,Medium,64.4
+STU0268,Ruairi Corless,ruairi.corless268@fictional-campus.test,22,Engineering,4,G1,58,21,7.5,79.1,1,23,4,70.7,62.5,2,1,2,1,0,True,base,False,14,0,5.0,58.9,45.9,False,High,70.2
+STU0269,Adam Meaney,adam.meaney269@fictional-campus.test,20,Law,1,G1,30,15,6.2,92.9,5,31,6,61.2,74.2,9,2,7,2,0,True,base,False,2,0,13.9,48.5,45.0,False,Medium,57.1
+STU0270,Nikki O'Mahony,nikki.omahony270@fictional-campus.test,20,Business Studies,1,G3,40,14,7.1,73.0,3,28,4,50.7,68.5,5,1,6,1,0,False,base,True,1,0,10.5,70.2,51.0,False,Low,50.3
+STU0271,Antoin Hernon-Leddon,antoin.hernon.leddon271@fictional-campus.test,19,Computer Science,2,G2,58,21,7.8,84.4,4,35,4,70.3,71.5,4,1,1,0,0,True,base,True,5,0,12.6,68.4,52.2,False,Medium,66.6
+STU0272,Miss Orla O'Cassidy,miss.orla.ocassidy272@fictional-campus.test,18,Economics and Finance,1,G1,45,13,6.7,84.4,2,16,6,57.5,64.9,4,2,3,0,0,False,base,True,9,1,9.1,62.1,48.7,False,Medium,60.6
+STU0273,Emmett Kerr,emmett.kerr273@fictional-campus.test,21,Law,2,G2,86,18,5.6,91.8,4,31,1,76.1,64.4,3,1,4,1,0,False,base,True,0,0,5.0,37.1,45.3,False,High,75.3
+STU0274,Mr. Lorcan Devery,mr..lorcan.devery274@fictional-campus.test,20,Marketing,2,G3,47,18,6.9,83.1,4,19,5,53.9,73.0,4,1,4,1,0,True,lg,True,0,3,5.8,51.2,44.7,False,Medium,57.1
+STU0275,Constance Farren,constance.farren275@fictional-campus.test,21,Law,3,G1,53,15,7.1,80.3,2,22,2,53.5,74.4,2,1,2,1,1,True,base,True,18,2,9.7,69.5,51.0,False,Medium,59.0
+STU0276,Colum Considine-Colhoun,colum.considine.colhoun276@fictional-campus.test,22,Law,1,G1,50,14,7.6,63.0,3,21,4,48.8,59.5,3,2,4,1,0,False,base,True,15,3,14.0,59.3,77.0,True,Low,47.8
+STU0277,Hamish Ledwich,hamish.ledwich277@fictional-campus.test,19,Business Studies,1,G2,35,17,5.9,90.9,6,27,5,61.9,91.5,8,0,0,1,0,False,base,True,0,1,5.0,66.9,48.9,False,High,72.7
+STU0278,Brooklyn O'Loan,brooklyn.oloan278@fictional-campus.test,26,Data Analytics,2,G2,73,13,6.3,88.3,4,29,6,54.8,64.5,4,1,3,0,0,False,lg,True,12,1,12.6,52.3,51.4,False,Low,53.4
+STU0279,Miss Orfhlaith McQuaid,miss.orfhlaith.mcquaid279@fictional-campus.test,22,Computer Science,2,G1,51,14,5.6,84.3,4,17,3,47.7,69.1,5,0,2,0,0,False,base,True,1,0,7.9,45.0,47.4,False,Medium,55.3
+STU0280,Patrick Thornton-Reardon,patrick.thornton.reardon280@fictional-campus.test,20,Law,3,G1,19,19,7.6,89.0,5,33,6,57.0,77.3,6,1,0,1,1,False,base,False,16,4,13.3,70.2,65.3,True,Medium,63.3
+STU0281,Aoibhinn Cannon,aoibhinn.cannon281@fictional-campus.test,20,Computer Science,1,G2,42,13,4.5,97.1,5,11,1,53.4,64.2,5,0,0,1,0,False,lg,False,0,1,7.4,35.0,50.2,False,Medium,60.4
+STU0282,Rhian MacNabb,rhian.macnabb282@fictional-campus.test,22,Business Studies,1,G1,56,16,6.4,78.4,2,21,3,48.1,68.5,4,2,10,2,0,True,base,True,0,1,6.4,65.8,57.8,True,Medium,56.0
+STU0283,Darragh Bresnehan-Cryan,darragh.bresnehan.cryan283@fictional-campus.test,26,Psychology,4,G3,71,16,6.8,73.7,5,30,3,47.8,69.0,7,2,4,2,0,False,base,True,15,1,19.7,54.8,58.9,True,Low,49.0
+STU0284,Shane Bourke,shane.bourke284@fictional-campus.test,19,Data Analytics,3,G2,55,18,7.8,73.0,5,32,5,56.3,76.3,4,0,0,2,0,False,base,True,0,0,5.0,60.7,49.5,False,Medium,57.0
+STU0285,Dr. Shaun Canny,dr..shaun.canny285@fictional-campus.test,18,Computer Science,1,G2,38,4,7.0,73.3,6,15,2,39.9,46.1,8,2,8,0,0,False,base,True,0,2,16.1,61.1,62.6,True,Low,50.1
+STU0286,Mr. Naoise Sheedy,mr..naoise.sheedy286@fictional-campus.test,20,Psychology,1,G2,27,17,8.2,100.0,2,41,9,78.9,94.1,8,1,1,1,0,False,base,False,0,0,15.8,61.8,38.1,False,High,82.5
+STU0287,Dr. Garrett Geoghegan,dr..garrett.geoghegan287@fictional-campus.test,19,Psychology,2,G2,74,15,8.8,68.0,3,33,4,46.6,71.6,2,2,4,2,0,False,base,True,3,3,5.9,68.6,69.6,True,Medium,57.2
+STU0288,Jena Randles-Cruise,jena.randles.cruise288@fictional-campus.test,19,Business Studies,1,G3,67,15,8.4,83.5,4,15,1,63.9,64.7,8,1,2,2,0,False,lg,True,0,0,8.4,64.0,50.0,False,Medium,63.3
+STU0289,Fainche Meagher,fainche.meagher289@fictional-campus.test,19,Business Studies,2,G2,52,3,6.8,75.8,4,11,1,45.5,45.7,5,1,5,2,0,False,lg,True,0,0,6.0,75.5,52.1,False,Low,44.0
+STU0290,Emilie Deady,emilie.deady290@fictional-campus.test,20,Business Studies,1,G3,52,19,7.2,79.4,2,28,5,68.3,72.9,0,2,7,3,0,False,base,True,7,0,10.8,72.2,33.0,False,Medium,62.2
+STU0291,Ms. Enya Mellet,ms..enya.mellet291@fictional-campus.test,18,Computer Science,2,G2,55,15,8.5,78.9,4,28,4,63.9,71.5,3,1,1,0,1,False,base,True,10,0,10.0,79.6,40.6,False,Medium,66.0
+STU0292,Dr. Eden McPartland,dr..eden.mcpartland292@fictional-campus.test,21,Law,1,G3,62,9,7.6,75.5,1,23,1,51.9,59.6,0,2,6,0,0,False,base,True,0,0,8.8,60.1,52.8,False,Low,48.8
+STU0293,Mrs. Jodie Crolly,mrs..jodie.crolly293@fictional-campus.test,27,Marketing,1,G1,9,12,6.3,58.7,5,28,6,28.0,65.0,5,2,6,0,1,False,base,False,23,3,16.0,41.1,84.1,True,Low,42.2
+STU0294,Dawn MacNamara,dawn.macnamara294@fictional-campus.test,18,Data Analytics,4,G2,51,23,8.6,84.6,5,29,5,77.6,62.7,4,1,0,0,0,False,base,False,0,0,6.9,82.9,34.9,False,Medium,67.6
+STU0295,Kristopher Sears,kristopher.sears295@fictional-campus.test,20,Law,1,G2,7,13,7.6,100.0,3,24,1,71.9,64.1,3,1,3,1,0,False,lg,False,8,0,5.0,76.3,38.8,False,Medium,63.0
+STU0296,Mrs. Molly Tolan,mrs..molly.tolan296@fictional-campus.test,21,Computer Science,1,G3,11,16,8.8,62.4,1,39,3,60.2,73.8,0,4,7,0,0,False,base,False,10,1,14.7,92.4,56.2,True,Medium,62.0
+STU0297,Jamie-Lee Cloherty,jamie.lee.cloherty297@fictional-campus.test,19,Computer Science,1,G3,42,18,7.1,80.5,5,27,3,72.6,66.2,5,2,7,0,0,False,base,True,0,0,16.2,85.8,39.2,False,Medium,67.0
+STU0298,Piaras McDermod,piaras.mcdermod298@fictional-campus.test,18,Psychology,1,G3,60,11,6.9,89.7,3,18,2,53.2,76.8,5,1,4,0,0,False,base,True,0,0,9.3,65.1,47.9,False,Medium,61.5
+STU0299,Rosie Richards-Nee,rosie.richards.nee299@fictional-campus.test,22,Economics and Finance,1,G1,94,10,7.5,77.3,4,26,6,58.5,59.4,5,0,1,0,0,False,base,True,1,0,8.5,55.7,51.2,False,Medium,55.3
+STU0300,Mr. Dermot Kieran,mr..dermot.kieran300@fictional-campus.test,20,Law,2,G2,40,16,7.6,75.4,7,14,5,62.9,65.8,10,2,7,1,0,False,base,False,9,0,26.9,77.9,47.0,False,Medium,59.7
+STU0301,Caitlyn Leddin,caitlyn.leddin301@fictional-campus.test,21,Computer Science,3,G2,26,19,6.5,88.8,5,26,4,72.5,75.9,5,2,3,1,0,True,sm,True,5,1,11.1,70.2,52.0,False,Medium,66.9
+STU0302,Tiffany Price,tiffany.price302@fictional-campus.test,18,Economics and Finance,2,G1,56,12,8.4,86.7,2,28,4,52.5,66.6,5,2,4,1,0,False,lg,True,19,3,7.3,68.1,64.5,True,Low,44.2
+STU0303,Angus Hosae,angus.hosae303@fictional-campus.test,19,Business Studies,1,G1,11,17,8.3,74.5,2,22,7,74.9,84.9,5,2,2,0,1,False,base,False,15,1,14.7,83.8,54.7,False,Medium,67.3
+STU0304,Ms. Ella Tyrrell,ms..ella.tyrrell304@fictional-campus.test,21,Computer Science,1,G3,42,8,8.2,79.4,4,22,2,63.7,63.0,1,1,1,0,0,False,base,True,0,0,9.6,76.0,51.5,False,Low,53.5
+STU0305,Ruairi Meaghan,ruairi.meaghan305@fictional-campus.test,19,Economics and Finance,2,G1,57,15,8.1,83.9,1,35,3,69.1,83.2,3,2,6,0,1,True,base,True,0,1,11.1,87.8,34.1,False,Medium,64.0
+STU0306,Eamonn Devaney,eamonn.devaney306@fictional-campus.test,22,Law,3,G3,24,15,6.6,96.6,2,18,3,66.2,68.2,5,1,1,1,0,False,base,False,0,2,6.8,68.0,52.5,False,Medium,59.1
+STU0307,Bronach Fenelon,bronach.fenelon307@fictional-campus.test,22,Marketing,1,G1,20,15,6.4,68.7,3,27,5,47.6,77.9,3,2,8,0,0,False,base,False,9,0,12.4,44.6,47.5,False,Medium,57.5
+STU0308,Patricia Lennon,patricia.lennon308@fictional-campus.test,18,Psychology,3,G2,34,16,7.5,75.0,6,32,6,61.5,63.2,7,0,1,1,1,True,base,True,13,1,17.9,55.4,53.8,False,Medium,60.7
+STU0309,Orlaigh Kinahan,orlaigh.kinahan309@fictional-campus.test,18,Computer Science,4,G2,23,24,8.7,69.9,2,36,8,28.2,77.9,1,0,3,1,0,False,sm,False,23,6,5.0,65.8,92.8,True,Low,49.0
+STU0310,Sophie Piggott,sophie.piggott310@fictional-campus.test,21,Data Analytics,1,G2,36,12,5.3,93.0,5,21,9,56.8,63.2,8,2,6,0,0,False,base,False,10,0,11.1,55.9,35.0,False,Medium,57.0
+STU0311,Dana O'Devenny,dana.odevenny311@fictional-campus.test,23,Engineering,1,G3,16,16,6.4,97.7,3,27,5,70.6,91.9,0,0,2,1,0,False,base,True,0,3,5.8,57.4,55.6,True,High,76.1
+STU0312,Carly McHenry,carly.mchenry312@fictional-campus.test,27,Business Studies,1,G1,46,12,6.0,86.9,2,23,4,59.8,63.9,4,2,6,2,0,False,base,True,11,2,9.7,47.4,52.0,False,Medium,58.4
+STU0313,Thomas Ruddy,thomas.ruddy313@fictional-campus.test,18,Economics and Finance,3,G1,31,16,7.5,84.3,5,25,3,64.5,57.5,3,1,4,2,0,False,lg,True,0,1,14.9,80.6,44.5,False,Medium,64.6
+STU0314,Ms. Terri Connolly,ms..terri.connolly314@fictional-campus.test,20,Engineering,3,G1,57,21,7.3,86.5,2,37,5,72.8,82.2,5,1,4,0,0,False,base,True,0,2,22.6,71.6,44.4,False,High,72.5
+STU0315,Leon Maughan-Ruane,leon.maughan.ruane315@fictional-campus.test,18,Law,1,G2,42,3,6.1,84.9,5,12,1,56.4,66.1,7,0,0,0,1,False,lg,True,0,1,10.0,60.1,46.7,False,Medium,59.2
+STU0316,Adam Lane-Lordan,adam.lane.lordan316@fictional-campus.test,19,Business Studies,4,G3,74,13,6.8,92.7,4,19,2,46.4,66.3,8,0,3,1,0,False,base,True,0,2,14.1,66.0,43.3,False,Low,51.5
+STU0317,Dr. Tess Farrell,dr..tess.farrell317@fictional-campus.test,23,Computer Science,2,G2,22,24,7.4,78.0,4,34,5,75.2,78.9,3,1,5,0,0,False,sm,False,0,1,10.6,56.0,52.0,False,High,74.0
+STU0318,Kira Prendergast,kira.prendergast318@fictional-campus.test,22,Psychology,1,G3,35,24,7.7,81.8,3,32,8,73.0,79.0,5,0,0,0,1,False,base,True,14,0,18.2,82.6,34.6,False,High,73.0
+STU0319,Erika Veale,erika.veale319@fictional-campus.test,20,Computer Science,1,G3,7,14,6.2,92.0,4,21,3,49.3,67.5,7,1,0,2,0,False,sm,False,13,3,15.2,59.8,57.2,True,Low,53.6
+STU0320,Dr. Max MacMullan,dr..max.macmullan320@fictional-campus.test,22,Engineering,2,G3,52,17,6.6,69.6,5,26,6,52.1,61.2,10,0,2,1,0,False,lg,True,14,2,11.5,46.0,68.4,True,Medium,57.5
+STU0321,Ms. Oonagh Hore,ms..oonagh.hore321@fictional-campus.test,23,Data Analytics,1,G2,65,12,6.3,73.8,3,34,4,48.3,66.7,6,0,0,0,1,False,base,True,7,1,12.0,40.9,46.9,False,Low,50.9
+STU0322,Hannah Higgins-Melady,hannah.higgins.melady322@fictional-campus.test,19,Law,2,G1,57,14,5.6,70.0,2,22,4,49.3,71.8,3,2,6,1,0,False,base,False,11,0,17.0,42.9,60.9,True,Medium,55.6
+STU0323,Hugh O'Regan,hugh.oregan323@fictional-campus.test,18,Economics and Finance,2,G2,71,20,6.1,96.4,2,25,2,65.4,75.9,4,3,5,0,1,False,base,True,4,0,6.7,67.1,37.2,False,Medium,63.0
+STU0324,Dr. Harriet Feeney,dr..harriet.feeney324@fictional-campus.test,21,Law,3,G2,41,17,6.9,89.3,4,18,2,74.2,65.1,4,1,4,0,0,False,base,True,0,0,12.5,59.8,37.4,False,Medium,62.4
+STU0325,Alexandria Doohan,alexandria.doohan325@fictional-campus.test,19,Business Studies,1,G1,39,11,8.0,81.5,5,23,3,61.1,62.0,5,2,5,0,0,False,base,False,0,0,5.0,64.6,37.8,False,Medium,60.1
+STU0326,Lucia Maguire,lucia.maguire326@fictional-campus.test,19,Marketing,2,G1,71,14,5.2,91.4,4,25,9,55.7,65.9,5,2,4,1,0,False,base,True,0,3,19.2,51.9,54.1,False,Medium,61.5
+STU0327,Mrs. Tia Nangle,mrs..tia.nangle327@fictional-campus.test,21,Marketing,2,G2,65,12,6.4,71.1,7,16,1,44.9,43.8,7,2,1,3,0,False,base,True,5,1,10.5,57.2,66.7,True,Low,44.5
+STU0328,Reuben O'Doherty,reuben.odoherty328@fictional-campus.test,18,Computer Science,2,G1,38,15,8.1,74.4,3,33,2,57.8,81.4,4,1,4,1,1,False,base,True,8,0,14.4,70.9,47.0,False,Medium,60.3
+STU0329,Conal Meenan,conal.meenan329@fictional-campus.test,22,Data Analytics,2,G3,31,17,5.7,83.6,2,30,5,60.7,73.1,1,2,8,0,0,True,base,True,13,1,14.8,59.1,50.6,False,Medium,68.7
+STU0330,Ms. Antoinette O'Mahoney,ms..antoinette.omahoney330@fictional-campus.test,22,Marketing,2,G2,44,20,6.2,96.9,5,32,3,36.4,78.9,2,1,2,1,0,False,base,True,16,3,8.3,57.5,62.0,True,Medium,57.2
+STU0331,Dr. Jared McNaughton,dr..jared.mcnaughton331@fictional-campus.test,20,Economics and Finance,1,G3,47,8,8.1,82.7,7,13,3,48.9,65.2,6,1,0,0,0,False,base,True,0,1,11.0,84.3,47.9,False,Low,48.5
+STU0332,Mr. Jacob Stokes,mr..jacob.stokes332@fictional-campus.test,24,Computer Science,1,G1,5,14,6.5,83.2,4,26,4,53.9,80.0,1,2,2,2,0,True,lg,True,9,2,10.9,53.0,48.2,False,Low,52.8
+STU0333,Eloise Quin,eloise.quin333@fictional-campus.test,21,Computer Science,1,G1,42,5,8.0,68.2,4,10,1,34.8,51.7,6,1,3,0,0,True,base,False,6,2,9.5,76.1,63.1,True,Low,44.1
+STU0334,Mrs. Marie-Claire Connell,mrs..marie.claire.connell334@fictional-campus.test,23,Marketing,2,G2,43,17,8.3,90.7,3,32,6,72.3,80.6,6,2,4,0,1,False,base,False,7,1,17.0,68.2,45.2,False,High,78.0
+STU0335,Wayne Leary,wayne.leary335@fictional-campus.test,22,Marketing,1,G2,44,14,6.4,75.5,7,22,5,56.4,54.4,4,1,5,0,0,False,base,True,0,2,11.5,46.2,61.4,True,Low,47.0
+STU0336,Calum Mulrain,calum.mulrain336@fictional-campus.test,19,Economics and Finance,3,G3,5,17,7.4,77.5,3,22,7,48.2,65.8,6,2,3,1,1,False,base,True,12,1,8.5,70.7,54.4,False,Low,51.5
+STU0337,William Darcy,william.darcy337@fictional-campus.test,19,Computer Science,1,G2,51,12,8.1,97.1,5,29,5,66.2,67.6,7,0,4,0,0,True,base,True,7,1,11.5,74.0,42.9,False,Medium,62.1
+STU0338,Catriona Loughrey,catriona.loughrey338@fictional-campus.test,20,Data Analytics,4,G2,75,18,6.3,100.0,3,33,3,61.9,78.7,1,2,3,1,0,False,base,True,13,2,5.0,44.4,49.3,False,Medium,66.9
+STU0339,Bailie MacNelis,bailie.macnelis339@fictional-campus.test,18,Engineering,2,G2,65,11,7.9,50.0,3,17,0,37.1,51.4,2,2,6,0,0,False,base,True,18,3,5.0,74.7,84.1,True,Low,38.3
+STU0340,Mr. Glen McCrossan,mr..glen.mccrossan340@fictional-campus.test,19,Law,2,G3,19,18,8.0,81.9,4,37,7,50.6,66.8,6,2,5,0,0,False,lg,False,12,0,14.3,70.1,43.6,False,Low,51.4
+STU0341,Jayde Fahy,jayde.fahy341@fictional-campus.test,25,Law,1,G2,57,12,6.6,80.5,6,28,3,54.6,73.8,6,2,7,0,0,False,base,True,0,3,12.1,66.3,67.0,True,Medium,60.4
+STU0342,Rian Mellon,rian.mellon342@fictional-campus.test,21,Data Analytics,2,G3,33,14,5.9,75.9,6,25,6,53.5,56.9,5,1,0,0,0,False,base,True,13,0,11.2,54.7,53.5,False,Low,45.0
+STU0343,Nicola Gaynard-Freely,nicola.gaynard.freely343@fictional-campus.test,20,Economics and Finance,1,G2,57,8,6.8,81.3,5,26,4,41.7,53.9,4,0,3,0,0,False,base,True,7,3,20.9,68.1,63.5,True,Low,47.0
+STU0344,Cahir McGuirk,cahir.mcguirk344@fictional-campus.test,17,Computer Science,2,G1,31,17,8.1,83.2,5,30,8,72.6,60.6,5,2,2,1,0,False,base,True,0,0,16.9,88.9,33.0,False,Medium,62.7
+STU0345,Nicola Hourigan-Rhattigan,nicola.hourigan.rhattigan345@fictional-campus.test,19,Computer Science,4,G2,30,22,5.6,98.4,4,31,7,66.9,84.7,2,2,7,0,0,False,base,True,0,0,13.3,35.5,35.3,False,High,72.8
+STU0346,Carla Heslin-O'Goldrick,carla.heslin.ogoldrick346@fictional-campus.test,21,Computer Science,1,G1,88,10,8.3,58.8,3,29,3,39.7,60.7,6,2,3,0,0,False,base,False,19,3,14.9,56.1,82.3,True,Low,43.5
+STU0347,Dr. Micheal Keehan,dr..micheal.keehan347@fictional-campus.test,18,Business Studies,1,G3,82,19,5.3,76.0,3,30,9,28.0,77.5,6,3,6,0,0,True,lg,True,22,4,7.7,35.0,96.2,True,Low,39.0
+STU0348,Mr. Morgan Leavey,mr..morgan.leavey348@fictional-campus.test,21,Marketing,1,G2,87,10,7.3,75.3,4,17,1,45.7,39.1,3,1,2,1,0,False,base,True,13,2,5.0,45.5,75.5,True,Low,37.8
+STU0349,Mr. Brian Neary,mr..brian.neary349@fictional-campus.test,20,Data Analytics,1,G3,65,8,5.7,83.3,2,16,3,50.1,56.8,3,1,3,0,0,False,base,True,0,0,11.9,47.6,56.9,True,Low,49.2
+STU0350,Lorna Loughran,lorna.loughran350@fictional-campus.test,21,Computer Science,2,G2,29,15,6.8,66.0,5,26,5,45.7,65.0,3,1,0,1,0,False,base,True,12,2,5.0,69.6,70.4,True,Low,46.6
+STU0351,Dr. Evan O'Doherty,dr..evan.odoherty351@fictional-campus.test,20,Business Studies,1,G1,62,16,7.1,82.1,4,28,9,60.4,65.4,8,1,4,1,0,True,base,True,0,2,9.1,64.1,57.1,True,Low,52.7
+STU0352,Miss Ciara McIlroy,miss.ciara.mcilroy352@fictional-campus.test,20,Data Analytics,1,G1,10,14,7.4,69.0,4,18,7,60.8,59.6,6,2,3,0,0,False,base,True,10,0,7.3,77.5,46.7,False,Low,54.5
+STU0353,Dr. Bethany Hollins,dr..bethany.hollins353@fictional-campus.test,26,Marketing,2,G3,60,8,7.7,91.2,5,21,2,49.5,57.4,6,1,2,1,0,False,base,True,7,2,9.5,62.4,54.5,False,Low,51.3
+STU0354,Leigh McCullagh,leigh.mccullagh354@fictional-campus.test,18,Marketing,2,G3,5,16,4.5,71.9,3,24,5,49.8,62.6,4,2,3,1,0,False,base,True,11,0,11.5,35.0,58.6,True,Low,48.9
+STU0355,Eimear Linskey-Boyce,eimear.linskey.boyce355@fictional-campus.test,20,Law,3,G3,43,18,6.8,77.8,2,28,2,68.2,44.6,0,0,3,0,0,False,base,True,18,2,8.6,57.2,74.1,True,Low,54.0
+STU0356,Dr. Dervla Barrett,dr..dervla.barrett356@fictional-campus.test,19,Marketing,3,G2,74,15,7.9,79.1,4,16,4,60.8,56.6,4,0,1,0,0,False,base,True,5,2,16.3,69.4,57.6,True,Medium,62.2
+STU0357,Terri Cavanagh-Reynell,terri.cavanagh.reynell357@fictional-campus.test,19,Computer Science,1,G2,43,10,7.4,78.5,3,23,4,65.3,67.3,7,2,6,0,1,True,base,True,7,1,9.2,67.2,40.9,False,Medium,60.7
+STU0358,Miss Sarah-Louise Heraghty,miss.sarah.louise.heraghty358@fictional-campus.test,20,Computer Science,1,G2,49,7,6.2,81.6,4,19,2,50.1,58.0,3,3,5,0,1,False,sm,True,7,0,11.6,68.4,45.1,False,Low,45.7
+STU0359,Shanna McClelland-Hatton,shanna.mcclelland.hatton359@fictional-campus.test,23,Data Analytics,4,G2,44,19,6.9,79.3,4,32,5,63.6,70.1,2,1,1,0,0,False,sm,True,0,0,17.6,61.3,45.9,False,Medium,63.1
+STU0360,Mr. Tristan Kangley,mr..tristan.kangley360@fictional-campus.test,20,Psychology,1,G1,79,12,6.0,74.0,3,22,3,39.5,50.4,6,1,6,0,1,False,lg,True,0,3,11.3,37.0,77.9,True,Low,46.6
+STU0361,Mr. Vincent Curran,mr..vincent.curran361@fictional-campus.test,21,Business Studies,2,G3,52,14,7.5,74.2,5,23,2,53.1,61.2,8,2,5,0,0,False,base,True,13,2,9.9,67.6,63.7,True,Medium,55.3
+STU0362,Mr. Harry Nash,mr..harry.nash362@fictional-campus.test,21,Computer Science,4,G1,24,28,8.0,85.3,4,31,7,72.9,81.0,1,1,0,0,0,False,base,True,5,0,12.8,85.9,33.7,False,High,77.7
+STU0363,Shay McEllistrim,shay.mcellistrim363@fictional-campus.test,19,Psychology,1,G3,15,13,4.7,78.3,5,25,4,48.1,66.0,9,0,1,0,0,False,base,True,8,4,13.3,47.8,64.5,True,Low,52.2
+STU0364,Ms. Ashlene Linny,ms..ashlene.linny364@fictional-campus.test,19,Law,1,G1,35,9,6.6,87.7,5,16,4,55.3,44.9,7,2,3,0,1,False,base,True,0,0,17.8,75.3,41.6,False,Low,51.3
+STU0365,Roise Millet,roise.millet365@fictional-campus.test,18,Law,3,G1,80,16,7.0,61.5,4,18,6,44.2,42.5,4,1,1,0,0,False,base,True,13,1,5.0,48.8,68.2,True,Low,34.5
+STU0366,Declan Droney,declan.droney366@fictional-campus.test,19,Marketing,1,G1,18,11,7.1,73.5,5,25,3,50.5,70.3,4,0,2,0,0,True,base,True,10,0,16.9,57.7,52.8,False,Low,49.3
+STU0367,Dr. Rian Roberts,dr..rian.roberts367@fictional-campus.test,22,Psychology,3,G2,19,15,6.8,83.7,3,20,5,33.8,56.4,4,2,7,2,0,False,base,False,24,2,7.6,57.7,74.2,True,Low,45.6
+STU0368,Craig Keeney-Philban,craig.keeney.philban368@fictional-campus.test,20,Data Analytics,1,G2,83,7,8.0,74.4,3,18,3,38.4,50.3,4,1,3,2,0,False,sm,False,0,0,12.1,62.6,60.2,True,Low,39.9
+STU0369,Dr. Jared Devilly,dr..jared.devilly369@fictional-campus.test,20,Computer Science,2,G3,48,20,8.9,95.9,5,32,7,80.6,89.3,3,2,5,0,0,False,base,False,1,0,14.6,82.2,28.2,False,High,78.5
+STU0370,Antoinette Early,antoinette.early370@fictional-campus.test,20,Engineering,1,G3,5,19,5.6,89.1,4,28,5,60.3,82.1,2,2,4,0,0,False,lg,False,13,0,19.9,67.3,34.0,False,Medium,64.8
+STU0371,Mr. Killian Whelehan,mr..killian.whelehan371@fictional-campus.test,20,Marketing,4,G3,38,23,6.7,99.6,7,40,5,84.6,93.5,6,0,1,0,0,False,sm,True,0,0,15.8,64.9,38.9,False,High,80.9
+STU0372,Ashlene McMahon,ashlene.mcmahon372@fictional-campus.test,20,Psychology,2,G3,36,16,6.7,91.8,4,25,4,55.2,72.8,2,2,3,0,0,False,base,False,10,1,9.9,48.7,50.2,False,Medium,58.3
+STU0373,Finn Swords,finn.swords373@fictional-campus.test,18,Business Studies,3,G1,30,17,7.7,68.7,6,23,3,47.0,59.0,8,3,6,0,1,False,lg,True,21,6,13.9,61.9,96.5,True,Low,53.2
+STU0374,Matthew McFadden,matthew.mcfadden374@fictional-campus.test,20,Law,2,G1,5,24,6.1,95.2,1,32,8,70.0,81.4,3,1,4,1,0,False,base,True,0,0,7.4,65.2,35.6,False,High,75.7
+STU0375,Dr. Stefan McGruddy,dr..stefan.mcgruddy375@fictional-campus.test,25,Law,1,G2,25,12,6.3,73.4,6,25,4,50.9,68.5,5,0,1,1,0,False,base,True,9,0,5.0,50.7,44.4,False,Medium,58.0
+STU0376,Miss Billie-Jo Hilary,miss.billie.jo.hilary376@fictional-campus.test,28,Computer Science,4,G3,75,21,7.5,95.5,5,32,3,61.4,73.8,6,1,5,1,0,False,base,True,5,0,17.8,41.0,52.5,False,Medium,62.1
+STU0377,Alana Wynne,alana.wynne377@fictional-campus.test,22,Engineering,2,G2,36,13,8.6,84.0,3,28,2,72.8,72.0,3,2,1,0,0,False,lg,False,7,0,14.2,71.0,47.8,False,High,71.9
+STU0378,Mairead Healy,mairead.healy378@fictional-campus.test,17,Law,1,G2,28,11,6.2,84.1,6,24,7,43.2,57.3,6,0,2,0,0,False,base,True,9,2,11.0,49.4,58.5,True,Low,47.5
+STU0379,Mr. Zac O'Hea,mr..zac.ohea379@fictional-campus.test,23,Computer Science,1,G3,37,10,7.5,73.0,2,17,6,48.6,63.1,7,0,4,3,0,True,base,True,16,0,15.3,69.3,56.1,True,Low,53.2
+STU0380,Miss Micheala Meagher,miss.micheala.meagher380@fictional-campus.test,21,Engineering,1,G3,47,19,5.0,89.9,1,31,9,55.8,68.3,5,3,8,0,0,False,base,True,0,1,21.3,35.0,44.4,False,Medium,65.7
+STU0381,Colm Carthy,colm.carthy381@fictional-campus.test,26,Marketing,3,G3,46,18,6.8,70.1,5,32,9,44.3,82.8,6,2,4,0,0,False,base,True,13,1,17.0,55.8,58.0,True,Medium,58.8
+STU0382,Grant Rattigan,grant.rattigan382@fictional-campus.test,20,Law,1,G3,75,18,6.8,79.2,4,31,5,62.7,73.7,9,0,1,0,0,False,base,True,4,2,13.3,48.4,53.4,False,Medium,63.7
+STU0383,Caoimhin Hinney,caoimhin.hinney383@fictional-campus.test,25,Business Studies,4,G2,56,24,7.0,93.9,2,32,4,71.6,73.7,4,3,4,0,0,False,base,False,3,1,13.4,55.2,39.3,False,High,70.0
+STU0384,Caoilfhionn McKenny,caoilfhionn.mckenny384@fictional-campus.test,19,Marketing,4,G3,53,20,6.5,80.2,3,37,6,41.2,86.5,2,1,3,1,1,False,sm,True,25,4,13.1,36.3,77.0,True,Medium,58.2
+STU0385,Georgina Tiernan,georgina.tiernan385@fictional-campus.test,20,Engineering,2,G2,21,9,6.5,77.6,4,25,6,54.8,63.4,7,0,1,0,0,False,base,True,13,2,6.5,48.5,65.9,True,Low,50.0
+STU0386,Lorna Fenlon,lorna.fenlon386@fictional-campus.test,25,Marketing,1,G1,18,17,7.2,99.5,4,30,4,69.0,70.2,2,1,8,1,0,False,sm,False,0,0,12.1,60.8,38.9,False,High,70.2
+STU0387,Mollie Dalton,mollie.dalton387@fictional-campus.test,22,Economics and Finance,2,G3,11,19,6.7,92.2,2,24,6,75.1,83.0,2,1,1,0,0,False,base,True,3,0,6.1,66.6,43.0,False,High,72.0
+STU0388,Dr. Marie Meaghan,dr..marie.meaghan388@fictional-campus.test,18,Law,1,G2,18,12,7.1,79.2,3,15,5,62.9,69.7,4,1,5,0,0,True,sm,True,6,0,10.7,68.5,32.1,False,Medium,62.0
+STU0389,Antoin McGarrigle-Hartigan,antoin.mcgarrigle.hartigan389@fictional-campus.test,20,Psychology,2,G1,83,11,8.7,82.3,4,28,4,74.9,61.9,4,0,3,1,0,False,base,True,8,0,5.0,83.2,51.9,False,High,71.2
+STU0390,Jenny Hoey,jenny.hoey390@fictional-campus.test,21,Law,2,G3,33,17,6.4,87.1,4,21,5,62.7,73.6,1,1,6,0,0,False,base,True,3,2,5.0,44.3,49.4,False,Medium,65.6
+STU0391,Miss Ayesha McEntaggart,miss.ayesha.mcentaggart391@fictional-campus.test,17,Data Analytics,1,G3,33,20,7.6,100.0,3,30,5,79.8,90.0,3,2,2,0,0,False,base,True,5,0,9.7,63.7,27.7,False,High,81.3
+STU0392,Whitney McCrudden,whitney.mccrudden392@fictional-campus.test,20,Law,3,G2,103,17,6.8,83.0,1,34,10,67.4,68.8,4,0,1,0,1,False,base,False,7,2,11.0,46.4,63.2,True,Medium,57.4
+STU0393,Killian Kinney,killian.kinney393@fictional-campus.test,20,Engineering,1,G1,16,16,6.6,73.6,6,26,3,46.2,61.2,4,1,4,0,0,False,lg,True,21,4,15.1,60.6,87.9,True,Low,46.6
+STU0394,Christopher O'Connell,christopher.oconnell394@fictional-campus.test,27,Engineering,1,G1,63,12,6.6,76.8,3,10,3,58.9,53.1,5,0,1,2,0,False,lg,True,0,0,5.0,67.3,56.1,True,Medium,61.7
+STU0395,Domhnall Bowler,domhnall.bowler395@fictional-campus.test,25,Data Analytics,1,G1,53,12,6.3,75.3,1,28,4,36.2,80.1,5,2,2,2,0,False,sm,True,0,2,9.5,67.1,60.7,True,Low,52.0
+STU0396,Jake Hussey,jake.hussey396@fictional-campus.test,18,Economics and Finance,1,G3,76,20,7.7,96.9,1,36,4,79.2,83.1,1,1,2,1,0,False,base,True,0,0,5.1,62.0,34.2,False,High,80.3
+STU0397,Scot Gunning,scot.gunning397@fictional-campus.test,20,Psychology,3,G2,23,23,6.5,89.3,5,36,8,59.0,80.8,9,2,2,0,0,False,base,True,0,3,14.0,47.6,46.9,False,Medium,64.8
+STU0398,Ruari Hallanan,ruari.hallanan398@fictional-campus.test,24,Law,1,G1,57,13,8.6,100.0,3,21,4,84.6,72.2,5,2,3,0,1,False,base,True,0,2,8.5,84.4,41.5,False,High,77.5
+STU0399,Clodagh Hewson-Madden,clodagh.hewson.madden399@fictional-campus.test,23,Computer Science,2,G2,13,16,6.9,96.4,1,32,3,72.7,66.9,3,1,0,0,0,False,lg,True,9,1,9.2,63.6,49.1,False,High,70.6
+STU0400,Mr. Terence Andrews,mr..terence.andrews400@fictional-campus.test,24,Marketing,2,G2,89,20,9.5,83.6,3,18,6,66.5,69.8,3,1,4,0,1,False,sm,False,15,4,5.0,76.5,75.3,True,Medium,66.3
+STU0401,Conall Dowling-Tiernan,conall.dowling.tiernan401@fictional-campus.test,21,Law,2,G3,5,19,6.8,78.8,2,29,0,56.9,66.4,3,2,4,2,0,False,base,True,4,2,5.0,61.1,53.0,False,Medium,57.2
+STU0402,Damien Deloughry-Bresnehan,damien.deloughry.bresnehan402@fictional-campus.test,17,Psychology,2,G1,28,19,7.4,69.0,2,24,7,45.9,69.0,7,1,2,0,0,False,sm,True,25,2,11.4,36.9,80.9,True,Low,48.2
+STU0403,Alastair McCrory,alastair.mccrory403@fictional-campus.test,19,Psychology,2,G2,45,12,8.0,92.3,3,20,5,43.7,67.6,4,0,0,1,0,False,lg,True,0,2,6.7,69.3,48.3,False,Low,52.3
+STU0404,Mr. Steven MacNeela,mr..steven.macneela404@fictional-campus.test,20,Data Analytics,1,G2,24,11,8.1,70.7,4,20,4,43.3,70.0,6,0,2,0,0,True,base,True,14,3,7.6,74.8,62.7,True,Low,49.1
+STU0405,Damien Kerville,damien.kerville405@fictional-campus.test,20,Law,1,G1,48,12,8.6,85.4,1,17,3,50.6,62.3,1,2,2,0,0,False,base,True,16,1,5.0,68.9,61.1,True,Low,53.5
+STU0406,Cianan Mongan,cianan.mongan406@fictional-campus.test,20,Marketing,2,G2,26,19,9.5,74.8,5,34,2,44.3,79.9,7,2,1,3,0,False,base,False,19,5,11.8,90.4,77.3,True,Medium,56.9
+STU0407,Brittany Comerford,brittany.comerford407@fictional-campus.test,18,Computer Science,2,G3,47,14,8.2,78.8,4,20,5,36.4,74.2,1,2,4,0,0,False,base,True,21,4,10.7,84.7,75.7,True,Low,53.8
+STU0408,Jill McDermott,jill.mcdermott408@fictional-campus.test,20,Law,3,G3,43,16,6.2,69.8,2,24,7,57.0,61.6,1,2,7,1,0,True,base,False,12,1,9.6,64.8,54.4,False,Medium,58.4
+STU0409,Lucinda Delaney,lucinda.delaney409@fictional-campus.test,20,Law,1,G1,42,13,8.7,75.1,6,30,1,58.9,68.9,6,2,3,1,0,False,lg,True,0,0,14.8,95.1,39.5,False,Low,51.3
+STU0410,Katie Heaney,katie.heaney410@fictional-campus.test,20,Marketing,4,G3,98,18,7.6,76.9,4,23,6,47.9,67.2,3,3,5,0,0,False,lg,True,0,0,11.8,69.4,55.0,True,Medium,55.7
+STU0411,Alison Shevlin-Luddy,alison.shevlin.luddy411@fictional-campus.test,19,Economics and Finance,1,G1,57,17,8.3,86.5,6,20,3,69.7,61.3,4,2,3,0,0,False,lg,False,12,0,13.5,82.1,35.0,False,Medium,63.8
+STU0412,Melissa Burke,melissa.burke412@fictional-campus.test,18,Psychology,1,G1,42,15,6.8,70.4,4,26,5,49.1,72.3,4,2,4,0,0,False,base,True,16,0,13.5,60.0,50.7,False,Low,52.4
+STU0413,Nicholas McPhillips,nicholas.mcphillips413@fictional-campus.test,21,Computer Science,2,G3,55,11,7.8,50.5,3,21,1,44.3,50.2,3,3,6,1,0,False,base,True,11,0,18.8,69.3,64.6,True,Low,48.4
+STU0414,Nikita Deery,nikita.deery414@fictional-campus.test,24,Engineering,2,G1,70,16,7.0,90.3,4,26,1,62.6,62.1,5,2,8,2,0,False,base,True,0,0,5.0,84.9,45.5,False,Medium,62.8
+STU0415,Paige Neilan,paige.neilan415@fictional-campus.test,24,Psychology,2,G3,65,10,6.9,82.6,4,32,6,51.3,73.6,5,1,3,0,0,False,lg,False,8,2,5.0,52.9,57.5,True,Low,54.5
+STU0416,Cailum MacMullen,cailum.macmullen416@fictional-campus.test,19,Data Analytics,2,G1,7,11,6.5,74.7,2,5,4,44.3,57.1,5,1,0,1,0,False,base,True,12,3,10.0,57.7,59.6,True,Low,51.4
+STU0417,Carmel Condron-Doogan,carmel.condron.doogan417@fictional-campus.test,20,Psychology,2,G1,38,12,8.4,70.0,3,21,4,63.3,60.1,4,1,2,0,1,False,base,True,7,0,12.4,79.9,58.3,True,Medium,60.4
+STU0418,Tyler Tubridy-MacShea,tyler.tubridy.macshea418@fictional-campus.test,22,Business Studies,1,G1,59,10,5.5,82.5,5,25,1,60.7,63.4,6,1,4,0,0,True,lg,False,10,0,12.1,44.6,40.7,False,Medium,60.0
+STU0419,Lydia Spillane,lydia.spillane419@fictional-campus.test,24,Psychology,3,G1,32,17,6.7,77.6,3,19,5,54.6,64.1,3,1,6,2,0,False,base,True,13,0,10.0,58.9,42.2,False,Low,53.2
+STU0420,Matthew Ronan-Mullane,matthew.ronan.mullane420@fictional-campus.test,20,Law,1,G3,34,8,7.1,68.2,3,17,6,50.0,53.2,6,1,2,3,1,False,base,True,6,0,7.1,57.2,43.2,False,Low,50.6
+STU0421,Che Uniaque,che.uniaque421@fictional-campus.test,18,Engineering,3,G3,41,13,7.6,71.4,6,22,6,64.4,52.5,8,1,4,0,0,False,base,False,14,0,8.2,75.5,55.2,True,Medium,59.2
+STU0422,Ms. Jayde O'Brown,ms..jayde.obrown422@fictional-campus.test,22,Data Analytics,3,G1,17,22,5.4,73.9,4,28,6,53.2,54.2,4,1,0,0,0,False,base,True,18,2,10.7,35.0,66.6,True,Low,53.1
+STU0423,Leo Martin,leo.martin423@fictional-campus.test,21,Law,3,G3,55,22,7.4,95.0,1,33,5,74.9,81.4,2,2,6,1,0,False,base,True,6,0,18.0,68.0,37.0,False,High,74.4
+STU0424,Dr. Hollie Milligan,dr..hollie.milligan424@fictional-campus.test,19,Marketing,1,G1,41,7,7.7,78.1,5,13,1,51.5,49.4,6,2,4,1,0,False,base,False,14,1,11.5,63.2,48.1,False,Medium,56.3
+STU0425,Mrs. Ellen Moylan,mrs..ellen.moylan425@fictional-campus.test,19,Data Analytics,1,G3,70,19,7.8,72.4,4,30,3,66.3,77.7,3,1,4,0,0,False,base,False,6,0,12.0,54.6,48.8,False,Medium,67.7
+STU0426,Naoimh Keegan,naoimh.keegan426@fictional-campus.test,21,Economics and Finance,3,G2,38,19,6.6,78.2,1,23,5,50.4,61.0,0,0,2,3,0,False,base,True,7,0,7.8,56.7,40.8,False,Low,51.0
+STU0427,Carolyn O'Ruane,carolyn.oruane427@fictional-campus.test,19,Economics and Finance,4,G1,37,16,9.0,65.7,2,25,3,54.6,56.3,1,0,2,1,0,True,sm,False,3,0,8.8,78.4,47.9,True,Low,50.7
+STU0428,Calum Creed,calum.creed428@fictional-campus.test,20,Engineering,3,G2,50,20,7.4,81.8,5,32,7,50.1,86.5,6,1,3,0,0,True,sm,False,16,3,9.8,62.5,64.4,True,Medium,62.7
+STU0429,Lyndon Curneen,lyndon.curneen429@fictional-campus.test,21,Psychology,1,G1,51,13,6.8,85.2,4,28,2,60.4,64.0,1,1,0,1,1,False,base,False,6,0,5.0,63.9,46.0,False,Medium,59.4
+STU0430,Miss Shauna Dowling,miss.shauna.dowling430@fictional-campus.test,21,Data Analytics,4,G3,53,16,6.7,64.1,3,30,5,60.7,69.1,8,2,6,0,1,False,base,False,11,0,11.8,55.5,44.4,False,Medium,58.1
+STU0431,Amy-Leigh Young,amy.leigh.young431@fictional-campus.test,21,Engineering,3,G3,47,21,6.4,100.0,3,31,6,67.9,76.1,6,2,3,0,1,False,base,True,16,2,17.6,68.2,43.3,False,Medium,64.7
+STU0432,Enya Doherty,enya.doherty432@fictional-campus.test,21,Economics and Finance,4,G2,14,23,9.4,90.6,4,26,7,70.9,74.8,6,1,0,2,1,False,base,True,14,2,13.6,82.7,42.1,False,Medium,60.0
+STU0433,Fiona Mooney,fiona.mooney433@fictional-campus.test,17,Marketing,2,G2,106,14,7.4,77.1,3,24,7,54.0,55.7,6,0,0,0,0,False,base,True,0,0,11.0,59.5,53.6,False,Low,47.2
+STU0434,Mrs. Eden MacDougall,mrs..eden.macdougall434@fictional-campus.test,21,Engineering,1,G2,44,18,8.1,100.0,4,26,4,62.2,86.4,4,1,0,0,0,False,base,False,0,1,9.9,77.6,38.8,False,Medium,66.8
+STU0435,Bethan Rowley,bethan.rowley435@fictional-campus.test,21,Economics and Finance,2,G1,46,16,6.7,92.5,3,20,7,78.7,69.8,1,2,3,0,1,False,sm,True,9,0,12.3,44.5,39.3,False,High,74.1
+STU0436,Conor Phillips,conor.phillips436@fictional-campus.test,26,Computer Science,1,G3,49,16,8.4,82.9,4,32,4,64.2,74.1,4,2,4,0,0,False,base,True,0,2,12.6,87.4,40.0,False,Medium,61.5
+STU0437,Cathal McCarthy,cathal.mccarthy437@fictional-campus.test,23,Computer Science,3,G3,68,19,8.8,91.7,4,27,4,72.6,69.9,6,1,1,0,1,False,lg,True,0,0,16.8,82.6,37.6,False,Medium,67.9
+STU0438,Miss Brittany Kyne,miss.brittany.kyne438@fictional-campus.test,22,Engineering,3,G1,54,21,7.3,97.8,5,35,6,70.3,92.9,7,2,3,0,0,False,base,True,0,2,5.8,58.2,42.0,False,Medium,67.3
+STU0439,Constance Mulhern-Wright,constance.mulhern.wright439@fictional-campus.test,20,Psychology,2,G2,28,18,6.1,90.3,3,37,4,75.1,87.9,3,2,2,2,0,False,lg,True,2,0,21.4,51.4,26.2,False,High,72.3
+STU0440,Mr. Toby Kierans,mr..toby.kierans440@fictional-campus.test,23,Business Studies,1,G2,19,14,8.6,81.4,4,18,4,59.6,43.9,4,2,5,2,0,False,base,True,1,2,10.2,83.5,51.2,False,Low,49.1
+STU0441,Dara Kinahan,dara.kinahan441@fictional-campus.test,25,Psychology,2,G3,50,19,7.2,90.6,3,33,4,71.9,82.6,1,1,2,0,0,True,lg,False,0,0,6.0,50.6,39.0,False,Medium,60.6
+STU0442,Miss Esther McCaughey,miss.esther.mccaughey442@fictional-campus.test,20,Psychology,2,G1,8,15,7.1,75.5,3,27,4,63.3,52.6,5,0,0,1,0,False,lg,True,10,0,5.0,83.3,38.9,False,Medium,55.2
+STU0443,Dara Ervin,dara.ervin443@fictional-campus.test,21,Business Studies,1,G2,48,17,4.8,99.7,4,27,6,64.5,75.5,2,2,8,1,0,True,base,True,0,0,11.8,35.0,44.8,False,Medium,65.7
+STU0444,Molly McPartlin-Connolly,molly.mcpartlin.connolly444@fictional-campus.test,22,Engineering,1,G3,46,18,5.6,66.5,3,21,4,47.9,64.3,4,3,4,1,0,False,base,True,13,2,9.6,59.1,65.0,True,Low,44.9
+STU0445,William Buckley,william.buckley445@fictional-campus.test,24,Economics and Finance,2,G3,57,8,6.6,81.9,2,25,1,50.2,65.8,4,2,4,0,0,True,lg,True,0,0,9.5,55.2,53.8,False,Low,52.0
+STU0446,Rian Harmon,rian.harmon446@fictional-campus.test,28,Business Studies,2,G3,44,12,5.2,94.9,4,25,5,46.4,64.4,6,3,5,0,0,False,base,False,0,2,10.4,51.5,43.3,False,Medium,57.1
+STU0447,Jane O'Casey,jane.ocasey447@fictional-campus.test,22,Economics and Finance,2,G3,41,22,7.3,88.1,6,32,5,64.3,75.6,6,0,5,0,0,False,base,True,3,2,20.3,50.6,50.4,False,Medium,61.4
+STU0448,Casey McGann,casey.mcgann448@fictional-campus.test,23,Data Analytics,2,G3,45,17,8.2,88.0,1,30,8,73.8,72.2,0,0,2,0,0,False,base,True,11,2,7.1,73.7,47.9,False,Medium,62.3
+STU0449,Jack Crawley-Clenaghan,jack.crawley.clenaghan449@fictional-campus.test,19,Business Studies,1,G1,32,15,6.9,79.0,4,22,4,56.1,64.0,1,1,0,1,1,True,lg,True,5,4,10.7,78.3,59.1,True,Medium,56.0
+STU0450,Conrad Christopher,conrad.christopher450@fictional-campus.test,19,Business Studies,1,G2,43,12,6.0,72.4,3,13,5,61.2,46.9,3,2,4,0,0,False,base,True,12,2,10.4,45.9,55.7,True,Low,50.7
+STU0451,Mr. Frazer Neelin,mr..frazer.neelin451@fictional-campus.test,19,Business Studies,4,G3,5,16,6.6,89.0,3,29,4,63.7,77.1,5,1,4,2,0,False,lg,True,12,1,17.0,58.4,38.1,False,Medium,66.9
+STU0452,Dr. Odhran Nee,dr..odhran.nee452@fictional-campus.test,19,Economics and Finance,1,G3,17,11,7.1,90.9,2,18,5,44.1,72.4,1,3,5,1,0,False,base,False,16,1,12.9,67.9,51.8,False,Medium,56.0
+STU0453,Denise Harnett,denise.harnett453@fictional-campus.test,21,Engineering,1,G2,53,1,6.1,79.3,5,17,1,47.2,53.3,6,2,4,1,0,True,base,True,14,2,11.2,49.6,64.3,True,Low,51.3
+STU0454,Mr. Jay Mullaly,mr..jay.mullaly454@fictional-campus.test,23,Law,1,G3,69,18,7.3,88.2,4,26,6,58.3,77.7,5,1,2,0,0,True,base,True,0,0,9.3,49.4,48.1,False,Medium,64.4
+STU0455,Geoffrey Quigley,geoffrey.quigley455@fictional-campus.test,19,Law,1,G1,24,9,8.8,78.2,4,20,4,52.6,71.1,6,0,0,2,0,False,base,True,0,0,9.7,81.2,50.4,False,Medium,63.4
+STU0456,Naoise MacCartan,naoise.maccartan456@fictional-campus.test,21,Data Analytics,2,G1,43,14,7.3,88.3,4,29,2,59.8,58.8,7,1,1,1,1,False,base,True,10,0,10.9,70.9,39.7,False,Medium,58.7
+STU0457,Duncan McMaster,duncan.mcmaster457@fictional-campus.test,26,Marketing,1,G3,40,10,6.7,74.0,3,18,2,54.7,69.9,7,0,2,0,1,False,base,False,5,1,7.2,64.6,56.3,True,Low,54.0
+STU0458,Amy Barnett-Guinness,amy.barnett.guinness458@fictional-campus.test,28,Marketing,1,G1,35,19,5.7,89.8,5,27,4,67.8,56.6,7,1,4,0,0,False,lg,True,0,0,11.2,59.0,50.1,False,Medium,57.0
+STU0459,Domhnall Dunny-Keelan,domhnall.dunny.keelan459@fictional-campus.test,23,Marketing,1,G3,40,7,9.3,90.9,4,19,7,64.9,67.6,2,1,3,2,0,False,sm,True,0,1,6.1,96.3,40.1,False,Medium,63.9
+STU0460,Jackson Diskin-Barnett,jackson.diskin.barnett460@fictional-campus.test,23,Law,2,G3,44,8,7.2,78.7,4,24,6,43.2,56.8,5,3,3,0,0,False,base,False,10,2,10.7,70.7,55.0,True,Low,44.9
+STU0461,Roise Mullaney,roise.mullaney461@fictional-campus.test,21,Business Studies,1,G3,34,16,6.1,87.3,5,26,3,60.0,79.7,3,1,1,1,0,False,base,True,6,0,10.8,63.9,33.9,False,Medium,60.5
+STU0462,Cillian McGroarty,cillian.mcgroarty462@fictional-campus.test,23,Business Studies,3,G3,26,22,8.4,94.9,3,32,5,77.5,65.0,4,1,3,1,0,False,base,True,0,0,6.8,73.9,32.2,False,Medium,64.6
+STU0463,Orlagh Heraghty,orlagh.heraghty463@fictional-campus.test,21,Engineering,2,G1,46,21,7.9,85.8,1,39,5,73.6,76.6,0,1,2,0,0,False,base,False,10,0,11.2,78.5,29.9,False,High,73.6
+STU0464,Lara McConaghey,lara.mcconaghey464@fictional-campus.test,18,Data Analytics,2,G1,51,14,6.2,77.4,2,21,4,48.2,53.2,3,1,3,0,0,False,lg,True,13,1,5.0,75.8,54.3,False,Low,48.6
+STU0465,Killian Carlin,killian.carlin465@fictional-campus.test,18,Psychology,3,G1,14,18,8.4,95.4,1,28,4,66.3,83.3,4,1,2,2,0,False,sm,True,6,0,6.7,66.6,34.8,False,Medium,67.7
+STU0466,Aine O'Flynn,aine.oflynn466@fictional-campus.test,25,Economics and Finance,1,G1,21,12,5.9,81.3,3,27,5,56.0,73.1,5,2,3,0,0,False,base,False,0,1,8.3,40.2,50.6,False,Medium,63.9
+STU0467,Hayden Mulkerrin,hayden.mulkerrin467@fictional-campus.test,22,Computer Science,1,G1,83,22,6.8,82.7,4,29,2,55.8,65.4,3,2,4,0,0,True,sm,False,0,2,10.6,57.1,59.1,True,Medium,58.9
+STU0468,Iona Miscell-Leech,iona.miscell.leech468@fictional-campus.test,19,Marketing,1,G3,43,11,7.6,82.7,2,25,4,60.9,62.5,5,2,7,0,0,False,sm,True,0,1,18.2,62.9,48.2,False,Medium,56.9
+STU0469,Kurt Bowe,kurt.bowe469@fictional-campus.test,20,Psychology,1,G1,18,17,5.3,90.4,4,28,4,64.3,82.6,0,1,2,0,0,False,base,True,12,0,5.0,61.9,38.9,False,High,70.8
+STU0470,Celine O'Freil,celine.ofreil470@fictional-campus.test,21,Marketing,3,G1,32,8,7.3,78.5,3,16,1,47.7,70.0,4,2,6,0,0,False,base,True,9,2,12.7,68.0,58.3,True,Low,50.2
+STU0471,Miss Ashleigh Munnelly,miss.ashleigh.munnelly471@fictional-campus.test,25,Psychology,2,G2,43,8,5.9,81.1,2,22,4,62.5,59.3,2,0,0,1,0,False,lg,True,6,2,8.6,60.8,66.0,True,Medium,59.2
+STU0472,Mrs. Dana Mulvey,mrs..dana.mulvey472@fictional-campus.test,22,Law,1,G2,60,12,6.4,94.5,3,19,3,56.5,61.5,1,1,3,0,0,True,base,True,1,1,12.8,44.4,45.2,False,Medium,60.4
+STU0473,Holly Simmonds-Cotter,holly.simmonds.cotter473@fictional-campus.test,22,Psychology,2,G1,41,17,7.7,83.2,3,28,4,64.3,64.1,0,1,0,0,0,False,lg,True,0,1,8.9,73.2,48.1,False,Medium,61.4
+STU0474,Theresa MacConnaghy,theresa.macconnaghy474@fictional-campus.test,18,Computer Science,1,G3,5,11,6.9,71.6,6,23,5,40.4,62.5,6,3,6,0,0,False,base,True,16,3,9.0,57.9,76.4,True,Medium,57.1
+STU0475,Miss Collette Mahony,miss.collette.mahony475@fictional-campus.test,20,Economics and Finance,4,G1,14,17,8.8,82.9,4,27,7,81.3,62.7,8,0,1,0,0,False,lg,True,13,0,13.7,89.2,46.5,False,High,72.3
+STU0476,Mr. Cahal Salmon,mr..cahal.salmon476@fictional-campus.test,18,Law,1,G3,12,6,7.1,79.1,2,11,1,52.3,61.2,2,1,0,0,0,False,base,True,9,0,5.0,58.9,59.0,True,Low,54.7
+STU0477,Mr. Rian Rynn,mr..rian.rynn477@fictional-campus.test,19,Computer Science,2,G1,26,18,6.1,96.7,1,28,6,68.4,76.0,0,4,6,0,0,False,base,False,0,0,9.9,65.3,33.8,False,Medium,67.5
+STU0478,Jesse McCaul,jesse.mccaul478@fictional-campus.test,18,Law,2,G2,35,18,7.8,87.7,4,29,7,88.1,75.2,2,0,0,1,0,False,base,True,6,0,7.8,67.0,34.8,False,High,72.5
+STU0479,Ms. Courteney Davoren,ms..courteney.davoren479@fictional-campus.test,23,Computer Science,3,G3,44,11,8.3,71.8,4,22,2,52.8,60.6,7,1,4,0,0,False,lg,False,10,1,12.8,80.9,54.4,False,Low,49.1
+STU0480,Fearghal Gray,fearghal.gray480@fictional-campus.test,18,Engineering,1,G2,13,7,7.4,78.8,2,21,7,56.8,55.0,2,0,4,0,0,False,base,True,3,0,5.0,60.5,45.4,False,Medium,58.4
+STU0481,Tiernan Fehan,tiernan.fehan481@fictional-campus.test,20,Engineering,1,G1,36,16,8.1,90.7,3,28,2,59.5,70.3,3,1,3,0,0,False,base,True,7,2,9.4,92.1,43.1,False,Medium,64.2
+STU0482,Mr. Daniel Reavy,mr..daniel.reavy482@fictional-campus.test,18,Psychology,3,G3,33,19,6.7,81.8,8,32,6,36.1,67.1,6,1,5,0,0,True,base,True,22,5,11.8,53.4,79.6,True,Low,46.4
+STU0483,Rosemary Nugent,rosemary.nugent483@fictional-campus.test,20,Data Analytics,1,G3,5,9,7.1,86.0,4,20,1,68.5,62.5,6,1,4,0,0,False,base,True,0,0,12.1,66.3,40.5,False,Medium,65.4
+STU0484,Dr. Vincent MacGing,dr..vincent.macging484@fictional-campus.test,19,Business Studies,1,G3,58,13,9.2,76.4,4,29,6,58.1,63.6,5,3,5,0,0,False,lg,True,10,4,6.3,78.2,67.3,True,Low,53.3
+STU0485,Malcolm Conneely,malcolm.conneely485@fictional-campus.test,22,Business Studies,2,G3,13,12,7.6,82.5,6,21,8,57.9,73.0,4,4,8,1,0,False,base,True,10,0,15.3,77.7,42.7,False,Medium,57.6
+STU0486,Jennifer Lyden,jennifer.lyden486@fictional-campus.test,22,Engineering,2,G2,36,18,7.3,89.4,2,37,2,63.5,72.5,5,2,6,3,0,True,base,False,0,0,13.6,62.7,36.5,False,Medium,62.6
+STU0487,Dr. Stewart Coady,dr..stewart.coady487@fictional-campus.test,19,Data Analytics,2,G1,49,16,7.0,84.5,5,28,2,53.1,73.6,5,1,2,0,0,False,lg,True,0,3,13.4,88.4,64.4,True,Medium,60.2
+STU0488,Katrina Corcoran,katrina.corcoran488@fictional-campus.test,17,Marketing,3,G2,45,20,6.0,87.2,6,32,7,63.6,83.0,7,2,4,0,0,False,base,True,15,1,6.1,63.5,44.2,False,High,72.3
+STU0489,Mitchel O'Bryen-Calligan,mitchel.obryen.calligan489@fictional-campus.test,23,Engineering,3,G1,53,10,6.7,64.4,4,30,5,52.0,54.1,9,4,10,1,0,False,base,True,0,2,12.4,65.3,58.7,True,Low,47.8
+STU0490,Jordon Leacy,jordon.leacy490@fictional-campus.test,21,Data Analytics,1,G1,5,13,7.3,66.6,4,18,7,57.5,73.0,4,2,3,1,0,False,base,False,0,1,12.9,74.6,60.0,True,Medium,63.7
+STU0491,Calum Rowan,calum.rowan491@fictional-campus.test,20,Economics and Finance,3,G1,16,17,6.9,87.2,4,24,6,57.9,62.7,3,1,6,1,0,False,base,False,0,1,14.2,45.8,41.8,False,Medium,60.3
+STU0492,Jordan Walters,jordan.walters492@fictional-campus.test,22,Economics and Finance,2,G3,77,13,6.6,84.6,6,24,5,68.4,55.2,5,2,3,0,0,False,lg,False,9,1,15.3,40.7,49.5,False,Medium,58.3
+STU0493,Mr. Mark Gilsenan,mr..mark.gilsenan493@fictional-campus.test,17,Marketing,1,G2,42,14,7.4,64.6,2,25,4,49.6,72.2,6,0,2,0,0,False,base,True,12,0,5.0,54.5,56.9,True,Medium,56.9
+STU0494,Lynsey O'Shea,lynsey.oshea494@fictional-campus.test,17,Engineering,1,G3,70,14,8.1,71.2,4,28,4,49.0,66.3,6,0,3,0,0,False,lg,True,19,2,19.3,50.3,79.1,True,Medium,56.9
+STU0495,Caroline Collins,caroline.collins495@fictional-campus.test,22,Law,4,G1,43,16,5.1,87.3,3,19,3,57.4,71.8,3,2,6,2,0,True,lg,False,1,0,10.7,57.7,49.3,False,Medium,56.2
+STU0496,Beth McAnulty,beth.mcanulty496@fictional-campus.test,25,Data Analytics,1,G2,36,15,6.0,88.2,5,31,2,52.2,84.8,5,0,0,0,0,False,base,True,0,0,11.8,54.3,39.6,False,Medium,62.5
+STU0497,Mrs. Katie-Louise Gainey,mrs..katie.louise.gainey497@fictional-campus.test,22,Data Analytics,2,G2,41,15,6.6,70.9,4,26,2,44.2,67.8,2,1,0,0,0,False,base,True,12,3,8.4,72.7,60.3,True,Medium,57.5
+STU0498,Eugene Murphy,eugene.murphy498@fictional-campus.test,23,Business Studies,1,G2,41,24,6.7,76.6,3,34,6,63.2,82.1,5,2,5,0,0,True,sm,False,16,2,11.7,60.0,60.2,True,Medium,66.9
+STU0499,Kelsey Shortt,kelsey.shortt499@fictional-campus.test,23,Computer Science,3,G3,82,14,4.9,94.2,3,28,4,61.3,67.1,5,1,1,2,0,False,sm,False,8,1,10.7,45.5,61.1,True,Medium,63.9
+STU0500,Cassandra McDyer-McGerr,cassandra.mcdyer.mcgerr500@fictional-campus.test,20,Business Studies,2,G3,31,15,6.6,85.4,5,31,6,54.3,76.0,2,1,5,0,0,False,base,False,2,0,6.2,71.2,40.8,False,Medium,62.1
